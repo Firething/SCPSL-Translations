@@ -3,10 +3,10 @@
 2~Cartão de Supervisor de Pesquisa
 3~Cartão de Diretor de Zona
 4~Cartão de Guarda
-5~Cartão de MTF Privado
+5~Cartão de Recruta MTF
 6~Cartão de Engenheiro de Contenção
-7~Cartão de MTF Sargento
-8~Cartão de MTF Capitão
+7~Cartão de Sargento MTF
+8~Cartão de Capitão MTF
 9~Cartão de Diretor da Instalação
 10~Dispositivo de Acesso da Insurgência do Caos
 11~Cartão nível-O5
