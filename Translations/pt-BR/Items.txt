@@ -32,7 +32,7 @@
 36~Colete Leve
 37~Colete de Combate
 38~Colete Pesado
-39~.44 Revolver
+39~Revólver .44
 40~AK
 41~Espingarda
 42~Saco de Doces~Um saco contendo os seguintes doces:
