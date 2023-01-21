@@ -5,29 +5,29 @@ Interagir
 Inventário
 Recarregar
 Correr
-Chat de voz
+Chat de Voz
 Esgueirar-se
 Mover para Frente
 Mover para Trás
 Mover para Esquerda
 Mover para Direita
-Lista de jogadores
-Informações do personagem
-Administrador remoto
-Alternar lanterna
-Bate-papo por voz alternativa
+Lista de Jogadores
+Informações do Personagem
+Administrador Remoto
+Alternar Lanterna
+Bate-papo por Voz Alternativo
 Noclip
-Console do jogo
-Tecla de atalho do cartão-chave
+Console do Jogo
+Tecla de Atalho do Cartão-Chave
 Inspecionar
 Engatilhar Revólver
 Lançar Item
-Tecla de atalho da Arma Primária
-Tecla de atalho de Arma Secundária
-Tecla de atalho Médica
+Tecla de Atalho da Arma Primária
+Tecla de Atalho da Arma Secundária
+Tecla de Atalho Médica
 Esconder GUI
 Alternar Neblina do Noclip
-Tecla de atalho de Granada
+Tecla de Atalho da Granada
 Menu de Pausa
 Registro de Depuração
 Modo de Visão Livre
