@@ -41,4 +41,4 @@
 45~SCP-244-B~Um vaso antigo, congelando ao toque. Cria uma grande nuvem de neblina gelada quando colocada.
 46~SCP-1853~Melhora as habilidades de manipulação de armas.
 47~3-X Disruptor de Partículas
-48-COM-45
+48~COM-45
