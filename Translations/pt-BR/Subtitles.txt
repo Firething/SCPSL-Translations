@@ -1,7 +1,7 @@
 Força-Tarefa Móvel Unidade Epsilon-11, designada [designation], entrou na instalação.<split>Todos os funcionários restantes são aconselhados à prosseguir com os protocolos de evacuação padrões até que um esquadrão da MTF chegue ao seu destino.<split>
 Aguardando re-contenção de: [count] entidades SCP.
 Aguardando re-contenção de: 1 entidade SCP.
-Ameaça substancial à segurança permanece dentro da instalação - Exercer cautela.
+Ameaça substancial à segurança permanece dentro da instalação - Exerçam cautela.
 neutralizado com sucesso. Causa de neutralização não especificada.
 neutralizado por SCP-[scp].
 neutralizado com sucesso pelo Sistema de Segurança Automático.
