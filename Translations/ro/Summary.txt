@@ -13,5 +13,5 @@ Detonația de Alfa Warhead a terminat [summary_warhead_kills] ființe.
 Nu a fost detonată Alfa Warhead în această misiune.
 Această misiune a durat [summary_round_minutes] (de) minute și [summary_round_seconds] (de) secunde.
 [summary_scp_terminated] SCP eliminați.
-Următoarea rundă în [summary_next_round_countdown] de secunde.
+Următoarea rundă în [summary_next_round_countdown] secunde.
 SCP-urile au ucis [summary_scpfrags] ființe umane.

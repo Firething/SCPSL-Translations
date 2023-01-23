@@ -15,4 +15,4 @@ STAȚIA DE LUCRU SE ÎNCHIDE
 ARATĂ REZUMAT
 ÎNCHIDE REZUMAT
 Personalizare [Attachment]
-Apasă [key] pentru a edita atașamentele.
+Apasă [Key] pentru a edita atașamentele.

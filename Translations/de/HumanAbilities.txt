@@ -1,0 +1,7 @@
+Sprinten:Erhöht deine Bewegungsgeschwindigkeit, aber auch deine Laufgeräusche.
+Schleichen:Deine Bewegungen werden leiser auf Kosten der Geschwindigkeit.
+Inventar:Öffne dein Inventar und wähle einen Gegenstand mit Links-Klick aus, oder lasse es mit Rechts-Klick fallen.
+Unbewaffnet:Du hast gar nichts. Finde etwas, egal was.
+Zugangskarte:Du hast eine Zugangskarte, nicht die beste, aber immerhin. Verlier sie nicht!
+Standard Ausrüstung:Du bist mit einer Waffe, einer Zugangskarte und einigen weiteren nützlichen Gegenständen ausgerüstet.
+Bewaffnet & Gefährlich:Du wurdest mit schwerer Bewaffnung, einer Zugangskarte und medizinischen Gegenständen ausgerüstet.

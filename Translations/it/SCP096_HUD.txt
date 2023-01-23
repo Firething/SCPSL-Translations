@@ -1,0 +1,8 @@
+SCP-096 inizia in modalità "docile", ma può arrabbiarsi quando qualcuno vede il suo volto o lo danneggia. La rabbia potenzia le sue abilità, che aiutano SCP-096 a seguire il trasgressore prima che la furia si plachi, tornando "docile".
+Rabbia Anti-Sociale:È difficile andare avanti... ma appoggiarsi a qualcosa ti aiuta a calmarti, a nasconderti... o ad aspettare che qualcuno passi.
+Attacco corpo a corpo:Sfondare qualsiasi cosa arrivando così a coloro che ti hanno ferito. I vostri attacchi distruggeranno le porte e feriranno gli esseri umani.
+Carica:Taglia le loro brevi fughe. Slanciati verso il tuo obiettivo, demolisci qualsiasi cosa nel vostro percorso.
+Unicamente rage
+Unicamente Docile
+Tieni premuto [key] per attivare l'abilità.
+Tieni premuto [key] per arrestare l'abilità, forzatamente.

@@ -1,20 +1,20 @@
 Puoi arrestare un giocatore anche se impugna un'arma da fuoco.
-Ci sono 4 zone nella Struttura: Light Containment Zone, Heavy Containement Zone, Entrance Zone e Surface Zone.
+Ci sono 4 zone nella struttura: Light Containment Zone, Heavy Containement Zone, Entrance Zone e Surface Zone.
 Scienziati e Classe D possono raggiungere la Surface Zone per evadere.
-La Entrance Zone ha 2 Gate che forniscono l'accesso alla Surface Zone. Avrai bisogno di una Tessera magnetica per aprirli.
-Usare un ascensore è una via semplice per evadere da molti SCP.
-Un Classe D evaso entrerà a far parte della Chaos Insurgency, invece uno Scienziato evaso diventerà della Nine-Tailed Fox.
-L'Adrenalina può essere usata per ricaricare instantaneamente la tua stamina e può darti diversi vantaggi nel combattimento.
+La Entrance Zone ha 2 Gate, che forniscono l'accesso alla Surface Zone. Avrai bisogno di una tessera magnetica per aprirli.
+Usare un ascensore è una via semplice per scappare da molti SCP.
+Un Classe D evaso entrerà a far parte della Chaos Insurgency, invece uno Scienziato diverrà della Nine-Tailed Fox.
+L'adrenalina può essere usata per ricaricare instantaneamente la tua stamina e può darti diversi vantaggi nel combattimento.
 La radio ha 4 modifiche del raggio. Più lungo è il raggio e più velocemente si scaricherà la batteria.
 La Nine-Tailed Fox e la Chaos Insurgency spawnano alla fine opposta della Surface Zone, la prima al Gate B, la seconda al Gate A.
-L'Alpha Warhead ucciderà instantaneamente tutti coloro che si troveranno all'interno della Struttura quando esploderà. Dovrà essere attivata dalla Surface Zone.
+L'Alpha Warhead ucciderà instantaneamente tutti coloro che si troveranno all'interno della struttura quando esploderà. Può essere attivata dalla Surface Zone.
 La sequenza della detonazione della Alpha Warhead può essere cancellata in una stanza della Heavy Containment Zone.
-La stanza dell'Intercom si trova nella Entrance Zone e può essere usata per parlare con tutti i giocatori della Struttura.
-Potrai lancirare gli oggetti (tasto "T" di default). Questo potrà essere usato per aprire le porte con Tessere magnetiche o per rompere i vetri.
-La Light Containment Zone verrà bloccata dopo 15 minuti; uccidendo tutti coloro che si troveranno all'interno. Scappa finché puoi!
+La stanza dell'Intercom si trova nella Entrance Zone e può essere usata per parlare con tutti i giocatori della struttura.
+Potrai lancirare gli oggetti (tasto "T" di default); questo potrà essere usato per aprire le porte con tessere magnetiche o per rompere i vetri.
+La Light Containment Zone verrà bloccata dopo 15 minuti, uccidendo tutti coloro che si troveranno all'interno. Scappa finché puoi!
 Massimizza il tuo vantaggio regolando gli accessori delle tue armi in base alla situazione in cui ti trovi.
 Più accessori ha un'arma su di essa e più pesante diventa. Ciò influisce sull'utilizzo della resistenza e sulla velocità di movimento.
-I soppressori non solo attutiscono i colpi, ma nascondono anche i lampi di fuoco della canna.
+I silenziatori non solo silenziano i colpi, ma nascondono anche i lampi di fuoco della canna.
 Le armi più lunghe e pesanti sono meno precise se sparate durante la corsa.
 Indossare un'armatura aumenta il numero di oggetti e munizioni che può trasportare.
 I proiettili perforanti (AP) danno i migliori risultati contro bersagli corazzati.
@@ -39,7 +39,7 @@ SCP-914 può cambiare tutti gli oggetti, incluse armi e munizioni.
 SCP-914 può ricaricare la radio e la Micro H.I.D.
 SCP-079 inizia relativamente debole ma diventa più potente man mano che la partita va avanti.
 SCP-079 può bloccare le porte, spegnere le luci e sovraccaricare i Tesla Gate.
-Una Tesla Gate controllata da SCP-079 apparirà sempre attiva.
+Un Tesla Gate controllato da SCP-079 apparirà sempre attivo.
 SCP-079 non può spegnere le luci in una stanza con una porta rotta.
 SCP-079 si potrà ricontenere utilizzando i generatori trovati nella Heavy Containment Zone, infine utilizzando un pulsante nella sua camera di contenimento.
 Una telecamera utilizzata da SCP-079 si illuminerà di blu. Non sai mai quando sta guardando.
@@ -56,8 +56,8 @@ Il morso di SCP-939 non è influenzato dall'armatura.
 SCP-939 infligge amnesia agli umani che morde; oscurando la loro vista.
 SCP-939 può scattare indefinitamente ed è completamente silenzioso quando cammina.
 SCP-939 è silenzioso quando cammina, il che lo rende un perfetto predatore da imboscata.
-I passi degli SCP sono distinti da quelli umani. Ascolta attentamente!
+I passi degli SCP sono distinguibili da quelli umani. Ascolta attentamente!
 SCP-049 può uccidere qualsiasi essere umano all'istante, se si avvicina.
 SCP-049 può rianimare i cadaveri solo se sono freschi.
 SCP-049-2 è vulnerabile ai colpi alla testa.
-Gli SCP-049-2 sono ottimi esploratori e sono pericolosi in gran numero.
+Gli SCP-049-2 sono ottimi esploratori e sono pericolosi se in gran numero.

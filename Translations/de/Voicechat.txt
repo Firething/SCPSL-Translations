@@ -17,3 +17,7 @@ Bestimmten Spielmechaniken erlauben, kurze Aufnahmen deiner Stimme zu verwenden.
 Einstellungen übernehmen
 Zurück
 Klicke "[key]" und navigiere zu "Einstellungen" zum Ändern.
+Lebende Spieler stummschalten
+Andere Zuschauer stummschalten
+Lobby stummschalten
+Globalen Sprachchat bei Rundenende stummschalten

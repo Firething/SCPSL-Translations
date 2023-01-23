@@ -97,3 +97,5 @@ Lässt die Taskleiste blinken wenn das Spiel nicht im Vordergrund ausgeführt wi
 Glättet Linien und entfernt visuelle Verzerrungen.
 Synchronisiert die FPS mit deiner Monitorbildwiederholrate um Bildverzerrung zu entfernen.
 Projeziert Texturen wie Schusslöcher oder Blutflecken.
+Dunkelmodus umschalten
+Einige helle Effekte werden durch dunkle Versionen ersetzt.

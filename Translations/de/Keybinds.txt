@@ -28,3 +28,11 @@
 <size=25>GUI verbergen</size>
 <size=25>Noclip Nebel umschalten</size>
 <size=25>Granate</size>
+<size=25>Pausenmenü</size>
+<size=25>Debug-Protokoll</size>
+<size=25>Freier Blickmodus</size>
+<size=25>Tür verriegeln</size>
+<size=25>Alle Türen entsperren</size>
+<size=25>Stromausfall</size>
+<size=25>Verriegelung</size>
+<size=25>Position pingen</size>

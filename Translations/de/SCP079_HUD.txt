@@ -65,3 +65,10 @@ ZIELE
 SCP SUBJEKTE
 ZIVILIST
 MILITÄR
+LAUTSPRECHER VERWENDEN
+AUFZUG ZUGRIFF VERWEIGERT
+SCP-079 hat keine direkten Kampf- oder Bewegungsmöglichkeiten. Stattdessen siehst du die Welt durch Sicherheitskameras, die in jedem Raum zu finden sind, und interagierst mit diesen. Alle verfügbaren Fähigkeiten werden in der oberen rechten Ecke deines HUDs aufgelistet.
+Praktisch unzerstörbar:Drei Generatoren spawnen in der Heavy Containment Zone. Wenn alle entriegelt und aktiviert sind, wirst du eingedämmt.\nGeneratoren haben eine Hochfahrsequenz, welche von jedem Spieler abgebrochen werden kann, indem der "CANCEL" Knopf des Generators gedrückt wird.
+Unbegrenzter Zugang:Du kannst zahlreiche Systeme in der Einrichtung manipulieren, um den anderen SCPs zu helfen. Oben rechts auf deinem Bildschirm wird dir angezeigt, welche Fähigkeiten verfügbar sind. Die Nutzung dieser Fähigkeiten kostet Reserve Energie (AP), die sich mit der Zeit regeneriert.
+Deep Learning:Wenn du bei Tötungen hilfst oder hilfreiche Aktionen für die anderen SCPs durchführst, erhälst du Erfahrung für eine neue Zugangsstufe. Jede neue Stufe bietet mehr AP und gewährt dir neue Fähigkeiten.
+Überwachung:Überall und nirgends zu sein gibt dir eine einzigartige Perspektive. Du kannst Orte, Personen und Objekte von Bedeutung anpingen und so beim Gemetzel helfen.

@@ -19,3 +19,5 @@ La chiamata del Medico:Segnalate la vostra posizione al personale curato. Mentre
 Risparmio è il Miglior Guadagno:I tuoi istinti medici non sono privi di efficienza; puoi far rivivere la cura più e più volte per fornire maggiori informazioni. Non capita tutti i giorni che i morti risuscitino due volte.
 Sete di sangue:La tua mente è stata rimossa con forza, lasciandoti con solo violenza. Ti ritrovi a inseguire gli umani sempre più velocemente, mentre li insegui...
 Voracità:La cura non è del tutto priva di benefici. Puoi rigenerare la tua carne usando la massa di qualsiasi cadavere vicino. Non c'è condivisione però, quindi assicuratevi di essere il primo alla festa.
+Resuscita
+Tieni premuto [key]

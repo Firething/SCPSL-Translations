@@ -1,7 +1,7 @@
 Puteți dezarma un jucător interacționând cu acesta în timp ce țineți o armă în mână.
 Sunt patru zone principale în Facilitate: Light Containment, Heavy Containment, Entrance, și Surface.
-Oamenii de Știință și Clas-D trebuie să ajungă la surface pentru a putea scăpa.
-Zona de entrance are două porți, care oferă acces la surface. Veți avea nevoie de o cartelă de acces pentru a le deschide.
+Oamenii de Știință și Clas-D trebuie să ajungă la Surface pentru a putea scăpa.
+Zona de entrance are două porți, care oferă acces la Surface. Veți avea nevoie de o cartelă de acces pentru a le deschide.
 Folosind un lift este o metodă rapidă și ușoară de a scăpa de majoritatea SCP-urilor.
 Clas-D scăpați intru în Insurgența Haosului, în timp ce Oamenii de Știință devin MTF.
 Adrenalina poate fi folosită să îți reîncarce instanteneu rezistența și îți dă avantajul în luptă.
@@ -43,7 +43,7 @@ O poartă tesla care este văzută de SCP-079 mereu va apărea că este activă.
 SCP-079 nu poate stinge luminile într-o cameră cu o ușă stricată.
 SCP-079 este recontaminat folosind generatoare găsite în Heavy Containment, și un buton final în camera de contaminare respectivă.
 O cameră care o folosește SCP-079 va străluci albastru. Niciodata nu ști când se uită.
-SCP-173 poate să se miște cum vrea el în camere întunecate, chiar dacă se uită cineva la el. Aduce o lanternă!
+SCP-173 poate să se miște cum vrea el în camere întunecate, chiar dacă se uită cineva la el. Aduceți o lanternă!
 SCP-173 poate ucide pe furiș din spate.
 SCP-173 poate crea o baltă care încetinează orice om care merge prin ea - creând negație-de-zonă rapidă și eficientă.
 SCP-106 este rezistent la gloanțe dar nu explozive și electricitate.
