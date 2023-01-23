@@ -3,10 +3,10 @@ Há 4 zonas principais dentro da Instalação: Contenção Leve, Contenção Pes
 Os Cientistas e Classe-Ds devem chegar à Superfície para escapar.
 A Entrada possui 2 portões que provêm acesso à superfície. Você precisará de um cartão-chave para abrí-los.
 Usar um elevador é uma maneira veloz e simples de fugir da maioria dos SCPs.
-Class-Ds que escaparam se juntam a Insurgência do Caos, enquantos Cientistas que escaparam viram MTF.
+Class-Ds que escaparam se juntam à Insurgência do Caos, enquantos Cientistas que escaparam viram MTF.
 A adrenalina pode ser usada para recuperar instantaneamente sua estamina e lhe dá vantagem em combate.
 Os rádios têm quatro configurações de alcance. Quanto maior o alcance, mais rápido a bateria se esgota.
-Unidades Mobile Task Force e Insurgentes do Caos chegam pelos lados opostos da Zona de Superfície.
+Unidades de Força-Tarefa Móvel e Insurgentes do Caos chegam pelos lados opostos da Zona de Superfície.
 A Ogiva Alfa elimina qualquer coisa dentro da Instalação quando detona. Ela pode ser ativada à partir da Zona de Superfície.
 A sequência de detonação da Ogiva Alfa pode ser cancelada de sua sala na Contenção Pesada.
 A sala de intercomunicação na Zona de Entrada pode ser usada para transmitir uma mensagem de voz para todos os jogadores.
