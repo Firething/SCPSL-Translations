@@ -6,7 +6,7 @@ Mídia Social
 Internet
 Favoritos
 Oficial
-Historico
+Histórico
 Amigos
 Procurar Servidores
 Criar Servidor
@@ -16,10 +16,10 @@ Recarregar
 Esconder Servidores Vazios
 Esconder Servidores Cheios
 Sem Whitelist
-Video
-Audio
+Vídeo
+Áudio
 Controles
-Gameplay
+Jogabilidade
 Outros
 Modo da Janela
 Tela Cheia Exclusiva
@@ -40,7 +40,7 @@ Antisserrilhamento
 Renderizar Luzes
 Volume Principal
 Efeitos Sonoros
-Chat de Voz
+Bate-papo de Voz
 Música do Menu
 Volume da Interface
 Tema do Menu
@@ -63,8 +63,8 @@ Não
 Você tem certeza que deseja sair?
 Resolução da Tela
 Esconder IP
-Bem vindo de volta, {username}!
-Creditos
+Bem-vindo de volta, {username}!
+Créditos
 AUTENTICANDO
 Conectando-se aos servidores centrais...
 <color=green>Conexão estabelecida</color>
