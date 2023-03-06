@@ -8,7 +8,7 @@ Comprimento
 LARGAR:
 Eficácia do Capacete
 Eficácia do Colete
-Uso de Stamina
+Uso de Estâmina
 Velocidade de Movimento
 Limite de Itens:
 Limite de Munição:
