@@ -3,7 +3,7 @@ SILENCIADO GLOBALMENTE
 NÃO AUTENTICADO
 AJUSTAR OPÇÕES DE PRIVACIDADE
 Seu microfone está desativado devido às suas opções de privacidade.
-Configurações de Privacidade do Chat de Voz
+Configurações de Privacidade do Bate-Papo de Voz
 Este jogo usa bate-papo de voz. Usar as teclas de pressionar-para-falar ("Q" e "V" por padrão) capturará sua entrada de som e transmitirá para outros jogadores conectados ao servidor.\nCertas mecânicas podem armazenar temporariamente amostras curtas de suas transmissões, que serão apagadas automaticamente após a desconexão do servidor.
 Rejeitar todas (desativa capturação de microfone)
 Personalizar Opções
