@@ -35,4 +35,4 @@ Bloquear Porta
 Liberar Todos Bloqueios
 Blecaute
 Confinamento
-Ping
+Indicação
