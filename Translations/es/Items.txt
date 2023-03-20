@@ -21,10 +21,10 @@
 21~Crossvec
 23~FSP-9
 24~Logicer
-25~Granada de fragmentación~¡Boom!
+25~Granada de alto explosivo~¡Boom!
 26~Granada cegadora~¡Ciega a tus enemigos!
 30~COM-18
-31~SCP-018~Súperbola capaz de rebotar con eficiencia extrema.
+31~SCP-018~Súper bola capaz de rebotar con eficiencia extrema.
 32~SCP-268~Equipada, te hace temporalmente invisible a no ser que se interrumpa por alguna acción del jugador.
 33~Adrenalina~Aumenta temporalmente la resistencia.
 34~Analgésicos~Cura heridas menores.

@@ -3,7 +3,7 @@
 	"Language"	"latam"
 	"Tokens"
 	{
-		"NEW_ACHIEVEMENT_4_0_NAME"	"Mi cura es la más efectiva..."
+		"NEW_ACHIEVEMENT_4_0_NAME"	"Mi cura es muy eficaz..."
 		"NEW_ACHIEVEMENT_4_0_DESC"	"Cura a 10 personas en la misma partida."
 		"NEW_ACHIEVEMENT_4_1_NAME"	"Rage-Quit involuntario"
 		"NEW_ACHIEVEMENT_4_1_DESC"	"Muere mientras te enfureces siendo SCP-096."
@@ -13,7 +13,7 @@
 		"NEW_ACHIEVEMENT_4_3_DESC"	"Permite que SCP-173 te rompa el cuello."
 		"NEW_ACHIEVEMENT_4_4_NAME"	"¡Prepárense, chicos!"
 		"NEW_ACHIEVEMENT_4_4_DESC"	"Reaparece como un miembro de los Nine-Tailed Fox."
-		"NEW_ACHIEVEMENT_4_5_NAME"	"¡Siempre por la izquierda hermanos!"
+		"NEW_ACHIEVEMENT_4_5_NAME"	"¡Siempre por la izquierda, hermanos!"
 		"NEW_ACHIEVEMENT_4_5_DESC"	"Escapa siendo Clase-D."
 		"NEW_ACHIEVEMENT_4_6_NAME"	"¡¿NANI?!"
 		"NEW_ACHIEVEMENT_4_6_DESC"	"Siendo Clase-D, mata a un Científico que sostenga una Tarjeta de Acceso."
@@ -44,7 +44,7 @@
 		"NEW_ACHIEVEMENT_4_20_NAME"	"... ¿Estás pensando lo mismo que yo?"
 		"NEW_ACHIEVEMENT_4_20_DESC"	"Encuentra cualquier arma siendo Clase-D."
 		"NEW_ACHIEVEMENT_4_21_NAME"	"Son solo recursos..."
-		"NEW_ACHIEVEMENT_4_21_DESC"	"Elimina 50 Clase-D siendo Científico o miembro del Destacamento Móvil."
+		"NEW_ACHIEVEMENT_4_21_DESC"	"Elimina a 50 Clase-D siendo Científico o miembro del Destacamento Móvil."
 		"NEW_ACHIEVEMENT_4_22_NAME"	"Eso estuvo cerca."
 		"NEW_ACHIEVEMENT_4_22_DESC"	"Cancela la detonación de la Ojiva Alfa en los últimos 15 segundos."
 		"NEW_ACHIEVEMENT_4_23_NAME"	"Si quieres que algo se haga bien..."
@@ -60,7 +60,7 @@
 		"NEW_ACHIEVEMENT_4_29_NAME"	"¡Feliz Navidad!"
 		"NEW_ACHIEVEMENT_4_29_DESC"	"Juega la versión navideña del juego"
 		"NEW_ACHIEVEMENT_4_30_NAME"	"Artista del escape"
-		"NEW_ACHIEVEMENT_4_30_DESC"	"Escapa de las instalaciones en 3 minutos o menos."
+		"NEW_ACHIEVEMENT_4_30_DESC"	"Escapa de la instalación en 3 minutos o menos."
 		"NEW_ACHIEVEMENT_4_31_NAME"	"Volando en cafeína"
 		"NEW_ACHIEVEMENT_4_31_DESC"	"Escapa mientras estás bajo los efectos de SCP-207"
 		"NEW_ACHIEVEMENT_8_0_NAME"	"Crisis evitada"
@@ -72,6 +72,6 @@
 		"NEW_ACHIEVEMENT_8_4_NAME"	"Sobreintensidad"
 		"NEW_ACHIEVEMENT_8_4_DESC"	"Intenta recargar la Micro HID."
 		"NEW_ACHIEVEMENT_8_5_NAME"	"Propiedad de la Insurgencia del Caos"
-		"NEW_ACHIEVEMENT_8_5_DESC"	"Libera dos o más objetos SCP de las instalaciones mientras escapas siendo un Clase-D."
+		"NEW_ACHIEVEMENT_8_5_DESC"	"Libera dos o más objetos SCP de la instalación mientras escapas siendo un Clase-D."
 	}
 }

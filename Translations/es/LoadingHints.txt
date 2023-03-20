@@ -1,5 +1,5 @@
 Puedes desarmar a un jugador interactuando con el mientras llevas un arma en tus manos.
-Existen 4 zonas principales en las instalaciones: Zona de Contención Ligera, Zona de Contención Pesada, Zona de Entrada y la Superficie.
+Existen 4 zonas principales en la instalación: Zona de Contención Ligera, Zona de Contención Pesada, Zona de Entrada y la Superficie.
 Los Científicos y los Clase-D deben alcanzar la superficie para escapar.
 La Zona de Entrada tiene dos puertas, dichas puertas son la única ruta de acceso a la superficie. Necesitarás una tarjeta de acceso para abrirlas.
 Usar un ascensor es una forma fácil y rápida de escapar de la mayoría de SCPs.
@@ -20,7 +20,7 @@ Usar armadura corporal aumenta el número de objetos y munición que puedes llev
 Las balas perforadoras (AP) funcionan mejor contra objetivos blindados.
 Las balas de punta hueca (JHP) provocan más daños contra objetivos sin blindaje, pero son más débiles contra armadura.
 Mantén pulsado el botón de recargar para descargar un arma, añadiendo su munición a tu inventario.
-Las armas de la Insurgencia del Caos son poderosas, pero su munición no aparece en las Instalaciones. Cada disparo cuenta.
+Las armas de la Insurgencia del Caos son poderosas, pero su munición no aparece en la instalación. Cada disparo cuenta.
 Las granadas pueden usarse para romper puertas.
 Las granadas se pueden lanzar con menos fuerza usando el botón derecho del mouse.
 La Micro H.I.D. puede matar a la mayoría de SCPs muy rápido, pero tiene una cantidad limitada de energía. ¡Úsalo sabiamente!

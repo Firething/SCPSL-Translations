@@ -30,7 +30,7 @@ Sincronización vertical
 Límite de FPS
 Apagado
 Calidad de texturas
-Texturas decals
+Texturas Decals
 Sombras
 Resolución de sombras
 Distancia de sombras
@@ -44,7 +44,7 @@ Chat de voz
 Música del menú
 Volumen de la interfaz
 Música del menú
-Desvanecer rápido de la intro.
+Desvanecer rápido la intro.
 Movimiento de cabeza
 Alternar carrera
 Mostrar valores exactos de vida
@@ -79,7 +79,7 @@ Permite a los jugadores ver tu perfil de Steam en el icono de la lista de jugado
 No rastrear (NR)
 Prohíbe al servidor usar tus datos (Dirección IP, ID de usuario, etc.) con propósitos no relacionados con la seguridad del servidor
 API de gráficos
-Crear servidores desde el juego ya no es compatible.\nHay 3 formas de crear un servidor de SCP:SL:\n- Descargando el servidor dedicado de SCP:SL (Steam AppID: 996560) y usándolo en tu PC\n- Alquilando un VPS o un servidor dedicado de uno de los proveedores de servidores y ejecutando el servidor dedicado ahí\n- Alquilar un servidor de un proveedor de servidores que soporte SCP:SL (ej. ZAP Hosting)\n\nClic en los links para más información\nPuedes preguntar a nuestro soporte técnico (el link a nuestro discord está en el menú principal)
+Crear servidores desde el juego ya no es compatible.\nHay 3 formas de crear un servidor de SCP:SL:\n- Descargando el servidor dedicado de SCP:SL (Steam AppID: 996560) y usándolo en tu PC\n- Alquilando un VPS o un servidor dedicado de uno de los proveedores de servidores y ejecutando el servidor dedicado ahí\n- Alquilar un servidor de un proveedor de servidores que soporte SCP:SL (ej. ZAP Hosting)\n\nClic en los links para más información\nPuedes preguntar a nuestro soporte técnico (el link a nuestro Discord está en el menú principal)
 CREAR IGUALMENTE
 LEER MÁS
 ALQUILAR UN SERVIDOR

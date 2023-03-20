@@ -74,8 +74,8 @@ SCP-079 - POST-PROCESADO
 Si se desactiva, los efectos de cámara se reducirán drásticamente.
 MOVIMIENTO DE CABEZA
 Activa el movimiento de cabeza en la cámara de primera persona al moverse.
-ACTIVAR CARRERA
-Carrera se activa y se desactiva, en vez de tener que mantener el botón.
+ALTERNAR CORRER
+Correr se activa y se desactiva, en vez de tener que mantener el botón.
 SEPARAR BARRA ARTIFICIAL PV
 Da a los PV artificiales su propia barra de salud en vez de estar sobre-expuesto.
 ¡Nuestras traducciones son open-source en GitHub! \n¿Quieres ayudar? Haz clic aquí para acceder al repositorio.
@@ -88,14 +88,14 @@ Si se activa, tus amigos de Steam podrán entrar a tu partida sin permiso.
 OCULTAR IP
 Si se activa, no se mostrarán las IP en la consola del cliente.
 ALTERNAR RECOLECCIÓN
-Al recoger objetos no necesitarás  mantener una tecla pulsada; pulsa de nuevo para cancelar.
+Al recoger objetos no necesitarás mantener una tecla pulsada; pulsa de nuevo para cancelar.
 Aplica sombras suaves a las esquinas y áreas ajustadas para dar más sensación de profundidad.
 Le da al ambiente más profundidad, tiene un coste de rendimiento más elevado.
 Le da a la iluminación más profundidad aplicando brillo basado en la intensidad.
-Activa subtítulos para los anuncios de cassie.
-Hace parpadear el icono del juego de la barra de herramientas cuando reapareces y el juego no está en primer plano.
+Activa subtítulos para los anuncios de CASSIE.
+Hace parpadear el icono del juego de la barra de tareas cuando reapareces y el juego no está en primer plano.
 Suaviza las líneas y elimina las distorsiones visuales.
-Sincroniza los frames del juego con los de tu monitor.
+Sincroniza los fotogramas del juego con los de tu monitor.
 Proyecta texturas como por ejemplo las manchas de sangre o los agujeros de bala.
 Modo Oscuro
 Cambia algunos elementos brillosos por versiones oscuras.
