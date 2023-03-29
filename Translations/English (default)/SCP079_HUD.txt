@@ -69,6 +69,26 @@ USE SPEAKER
 ELEVATOR ACCESS DENIED
 SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.
 Virtually Indestructible:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
-Unlimited Access:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time. 
+Unlimited Access:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time.
 Deep Learning:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
-Overwatch:Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter. 
+Overwatch:Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter.
+$BREACH SCANNER$ now available — select team(s)/zone(s) in $Facility Map$ to periodically scan for remaining survivors.
+AUX POWER REGEN SUSPENDED
+AUX POWER REGEN REDUCED ([precentage])
+Door Lock active
+Speaker in use
+Lockdown in progress
+BREACH SCANNER
+RETURN TO MAP
+Breach Scanner - [cnt] zone(s)
+SELECTED ZONES: [cnt]
+SELECT ZONES TO SCAN
+Scan result: $No stationary targets detected$.
+Retrying in [time] seconds...
+Scan result: $[role]$ detected at ‘$[camera_name]$’ ([zone]).
+NEXT SCAN: [time] s
+Scanning...
+SCAN SEQUENCE SUSPENDED
+SELECT TEAMS TO DETECT
+Breach Scanner detects remaining targets that stay within the same area for an extended period of time.
+Select at least one filter to continue!

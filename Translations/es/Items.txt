@@ -6,7 +6,7 @@
 5~Tarjeta de Soldado raso del DM
 6~Tarjeta de Ingeniero de Contención
 7~Tarjeta de Sargento del DM
-8~Tarjeta de Capitan del DM
+8~Tarjeta de Capitán del DM
 9~Tarjeta de Administrador
 10~Dispositivo de Acceso de los Insurgentes del Caos
 11~Tarjeta Nivel-O5
@@ -30,8 +30,8 @@
 34~Analgésicos~Cura heridas menores.
 35~Moneda~No estás seguro por qué quieres guardar esto...
 36~Armadura Ligera
-37~Armadura de combate
-38~Armadura pesada
+37~Armadura de Combate
+38~Armadura Pesada
 39~Revolver .44
 40~AK
 41~Escopeta

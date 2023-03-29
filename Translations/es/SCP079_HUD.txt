@@ -55,9 +55,9 @@ $BLOQUEO$ ya disponible. Pulsa [key] para bloquear temporalmente las todas puert
 +[amount] EXP - Protección de aliados
 +[amount] EXP - Impedir uso de la Micro H.I.D.
 ENTRADA DE VÍDEO ACTIVA
-APAGÓN EN LA ZONA ([cost])
-$APAGÓN EN LA ZONA$ ya disponible. Incluido las etiquetas de zona en el $Mapa de la Instalación$.
-ENFRIAMIENTO DE APAGÓN EN LA ZONA
+APAGÓN DE ZONA ([cost])
+$APAGÓN DE ZONA$ ya disponible. Al lado del nombre de una zona en el $Mapa de la Instalación$.
+ENFRIAMIENTO DE APAGÓN DE ZONA
 APAGÓN YA ACTIVO
 APAGÓN NO DISPONIBLE EN ESA ZONA
 TOTAL DE FORMAS DE VIDA
@@ -72,3 +72,23 @@ Virtualmente Indestructible: Tres generadores aparecen en la Zona de Contención
 Acceso Ilimitado: Puedes manipular numerosos sistemas de la instalación para colaborar con los demás SCPs. En la parte superior derecha de tu pantalla se muestran las habilidades disponibles. El uso de estas habilidades cuesta Energía Auxiliar (EA) que se regenera con el tiempo.
 Aprendizaje Profundo: Al ayudar en las eliminaciones o realizar acciones útiles para los otros SCPs, ganarás experiencia para un nuevo Nivel de Acceso. Cada nivel nuevo proporcionará más EA y también nuevas habilidades.
 Vigilancia: Estar en todas partes y en ninguna te da una perspectiva excepcional. Puedes marcar un ping a lugares, personas y objetos de interés, lo que te permitirá ayudar en la matanza.
+$ESCÁNER DE BRECHAS$ ya disponible. Selecciona equipo(s)/zona(s) en el $Mapa de la Instalación$ para buscar sobrevivientes restantes.
+REGENERACIÓN DE EA SUSPENDIDA
+REGENERACIÓN DE EA REDUCIDA ([precentage])
+Bloquear Puerta activa
+Altavoz en uso
+Bloqueo en proceso
+ESCÁNER DE BRECHAS
+VOLVER AL MAPA
+ESCÁNER DE BRECHAS - [cnt] zona(s)
+ZONAS SELECCIONADAS: [cnt]
+SELECCIONA ZONAS A ESCANEAR
+Resultados de escaneo: $No se detectaron objetivos estáticos$.
+Reintentando en [time] segundos...
+Resultados de escaneo: $[role]$ detectado en ‘$[camera_name]$’ ([zone]).
+SIGUIENTE ESCANEO: [time] s
+ESCANEANDO...
+SECUENCIA DE ESCANEO SUSPENDIDA
+SELECCIONA EQUIPOS A ESCANEAR
+El Escáner de Brechas detecta a objetivos restantes que permanecen en la misma zona durante un largo periodo de tiempo.
+¡Selecciona al menos un filtro para continuar!

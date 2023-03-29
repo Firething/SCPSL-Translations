@@ -72,3 +72,23 @@ Praktično neuništiv:U zoni Teškog Zadržavanja postoji tri agregata. Ako se s
 Neograničen pristup:Možete manipulisati brojnim sistemima u objektu da pomognete drugim SCP-evima. Gornji desni ugao ekrana pokazuje koje su sposobnosti dostupne. Ove sposobnosti koštaju unutrašnju struju (US) za koršćenje, koji se regeneriše nakon nekog vremena. 
 Duboko učenje:Pomaganje u uklanjanju, ili izvođenje korisnih radnji za druge SCP-eve pružiće ti iskustvo ka novom nivou pristupa. Svaki novi nivo pruža više US, i daje vam nove sposobnosti.
 Pod stražom:Biti svuda i nigde pruža vam jedinstvenu perspektivu. Možete označiti lokacije, ljude i objekte od interesa, što vam omogućava da pomognete u klanju. 
+$BREACH SCANNER$ sada dostupan — odaberite tim(ove)/zonu(e) u $Mapi Objekta$ da periodično skenirate i pronađete preživjele.
+UNUTAR. STRUJA REGENERACIJA SUSPENDOVANA
+UNUTAR. STRUJA REGENERACIJA USPORENA ([precentage])
+Zaključavanje vrata aktivno
+Zvučnik se koristi
+Sve je zaključano
+BREACH SCANNER
+VRATI SE MAPI
+Breach Scanner - [cnt] zona(e)
+ODABRANE ZONE: [cnt]
+ODABERITE ZONE ZA SKENIRANjE
+Rezultat Skeniranja: $Stacionarne mete nisu pronađene$.
+Sljedeći pokušaj za [time] sekundi...
+Rezultat Skeniranja: $[role]$ pronađen kod ‘$[camera_name]$’ u ([zone]).
+SLJEDEĆE SKENIRANJE: [time] sek.
+Skeniranje...
+SEKVENCIJA SKENIRANJA SUSPENDOVANA
+ODABERITE TIMOVE DA SE PRONAĐU
+Breach Scanner pronađe preostale mete koje su se zadržali na istom područiju poslije nekog vremena.
+Odaberite barem jedan filter da nastavite!

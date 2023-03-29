@@ -57,3 +57,5 @@ SCP:SL Pomagač Direktora Igre
 Northwood Nadzornik Tehničke Podrške
 Northwood Menadžer Tehničke Podrške
 Northwood Menadžer Sistemski Administrator
+Northwood Dizajner Priče  
+Northwood Nadzornik Platforme Marketinga

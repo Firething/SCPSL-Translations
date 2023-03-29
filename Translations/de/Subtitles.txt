@@ -1,7 +1,7 @@
 Mobile Task Force Einheit Epsilon-11 designiert als [designation] hat die Einrichtung betreten.<split>Jeglichem Personal wird empfohlen, mit Standard Evakuierungsprotokollen fortzufahren, bis ein MTF Trupp Ihren Standort erreicht hat.<split>
 Erwarte Wiedereindämmung von: [count] SCP Subjekten.
 Erwarte Wiedereindämmung von: 1 SCP Subjekt.
-Beträchtliche Sicherheitsgefahr besteht weiterhin in der Einrichtung - fahren Sie mit Vorsicht fort.
+Beträchtliche Sicherheitsgefahr besteht weiterhin in der Einrichtung - fahre mit Vorsicht fort.
 erfolgreich terminiert. Terminationsgrund undefiniert.
 terminiert von SCP-[scp].
 erfolgreich terminiert vom automatischen Sicherheitssystem.
