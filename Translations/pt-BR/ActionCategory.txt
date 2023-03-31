@@ -4,5 +4,5 @@ Movimentos
 Atalhos
 Comunicações
 Sistema
-Não-bindável
+Não-vinculável
 SCP-079
