@@ -72,3 +72,23 @@ Virtualmente Indestrutível:Três geradores são distribuidos na Zona de Conten�
 Acesso Ilimitado:Você pode manipular inúmeros sistemas da instalação para assistir os SCPs. O canto superior direito da tela mostra quais habilidades estão disponíveis. Essas habilidades custam energia auxiliar (AP) para usar, que se regenera com o tempo.
 Profunda Aprendizagem:Cooperar com assassinatos ou realizar ações úteis para os outros SCPs concederá a você experiência para um novo nível de acesso. Cada novo nível fornece mais AP e concede a você novas habilidades.
 Supervisão:Estar em todos os lugares e em nenhum lugar lhe garante uma perspectiva única. Você pode INDICAR locais, pessoas e objetos de interesse, permitindo que você ajude no massacre.
+$SENSOR DE BRECHA$ atualmente disponível — selecione classe(s)/zona(s) no $Mapa da Instalação$ para verificar periodicamente por sobreviventes restantes
+REGEN. DE ENERGIA SUSPENDIDA
+REGEN. DE ENERGIA REDUZIDA EM ([precentage])
+Bloqueio de Porta Ativado
+Alto-falante em Uso
+Confinamento em Progresso
+SENSOR DE BRECHA
+RETORNAR PARA MAPA
+Sensor de Brecha - [cnt] zona(s)
+ZONAS SELECIONADAS: [cnt]
+SELECIONE ZONAS PARA ESCANEAR
+Resultado do Sensor: $Nenhum alvo imóvel detectado$.
+Tentando novamente em [time] segundos...
+Resultado do Sensor: $[role]$ detectado em ‘$[camera_name]$’ ([zone]).
+PRÓXIMA VERIFICAÇÃO: [time] s
+Escaneando...
+SEQUÊNCIA DE VERIFICAÇÃO SUSPENDIDA
+SELECIONE CLASSES PARA DETECTAR
+O Sensor de Brecha detecta os alvos restantes que permanecem em uma mesma área por um longo período de tempo.
+Selecione pelo menos um filtro para continuar!
