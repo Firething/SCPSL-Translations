@@ -1,11 +1,14 @@
 Možete da uhapsite igrača tako što držite E sa puškom.
 Postoje 4 zone u objektu:Lagana Sadržilačka Zona, Tešnjka Sadržilačka Zona, Zona Ulaza i Spoljašnja Zona.
 Naučnici i Klasa-D moraju otići vani da pobjegnu.
+Objekatski Čuvari su slabi sami ali su jaki u brojevima. Ostanite zajedno!
+Vaša kondicija je bitan resurs, rezervišite malo za hitne slučajeve!
 Zona ulaska ima 2 ulaza, A i B, oni daju pristup vani. Trebaće vam pristupna kartica da ih otvorite.
 Korišćenje lifta je brz i lagan način da se pobjegne od mnogih SCP.
 Pobjegli Klase-D pridruže se Chaos Insurgency, a naučnici se pridruže MTF.
 Adrenalin može da vam odma vrati kondiciju i daje prednost u borbi.
 Radio ima 4 režima signala po udaljenosti. Ako stavite duži signal, brže se istroši baterija.
+Električne kapije su električne opasnosti rasprostranjene u Teškoj Sadržižačkoj Zoni. Nastavite sa pažnjom!
 Mobilne Operativne Grupa i Chaos Insurgency dolaze na krajevima spoljašnjih zona.
 Alpha Warhead ubija sve u objektu kada pukne. Može biti aktivirana u spoljašoj zoni.
 Alpha Warhead detonacija može se sprječiti u svojoj sobi u Teškoj Zadržilačkoj Zoni.
@@ -24,40 +27,58 @@ Chaos Insurgency oružija su veoma jaka, ali njihova municija se ne može naći 
 Granate se mogu koristiti da uništite neka vrata.
 Granate se mogu baciti sa manje sile tako što pritisnete lijevi klik.
 Mikro H.I.D. može da ubije mnoge SCP-ove brzo, ali ima ograničeno napajanje, koristi to mudro!
-Mikro H.I.D. treba oko 5 sekundi prije nego što počne pucati.
+Mikro H.I.D. treba oko pet sekundi prije nego što počne pucati.
 Držanje lijevog klika sa Micro H.I.D. će pripremiti ga da puca, trošeći napajanje, ali neće pucati dok nepritisente desni klik.
 Micro H.I.D. je veoma glasan kad se priprema za pucanje. Probajte da koristite Micro H.I.D. kad vam neprijatelji ne mogu pobjeći.
 Pripremljanjem Micro H.I.D. proizvodi zastrašujući zvuk koji se može koristiti da neprijatelji bježe od vas.
 Flaša SCP-207 neće vas samo ubrzati, nego će vas i malo izlječiti.
 Možete popiti do 4 SCP-207 da budete još brži.
 SCP-500 osim što vas izlječi, ukloni i sve statusne efekte i daje malo regeneracije poslije toga.
-Dok SCP-268 naprave nevidljivim prema ljudima, SCP-079 i SCP-939 vas još mogu vidjeti.
+Dok SCP-268 naprave nevidljivim prema ljudima, SCP-079 vas još može vidjeti.
 SCP-268 neće vas spasiti od SCP-096 ako ste ga polgedali u facu.
 SCP-018 je veoma nepredvidljiv. Kada je bačeno, idite ka zaklonu.
 SCP-018 može se koristiti da blokirate ono što vas ganja kad ga bacite u hodniku.
 SCP-914 može da promjenji sve stvari, municiju i oružije.
+SCP-330 može da izbaci 6 različitih bombona, svaka sa efektima. Nemoj da uzmeš više od dva!
+SCP-1853 omogućava oružiju da se repertira brže, i umanji odskok puške dok se puca.
+SCP-2176 može da zaključa sobu, odključa sobu ili vrata zaključana od SCP-079.
+SCP-2176 može da privremeno neosposobi SCP-079 ako se baci u sobu čija kamera se koristi od strane SCP-079.
+SCP-1576 dozvoljava živim igračima da kraktovremeno pričaju sa posmatračima.
 SCP-914 može da napuni radio i Micro H.I.D.
 SCP-079 počinje relativno slab ali postane jači sa vremenom.
-SCP-079 može da zaključa vrata, ugasiti svjetla i pokrenuti električnu kapiju.
-Električna kapija u koji SCP-079 gleda će uvjek biti aktivna.
-SCP-079 ne može isključiti svjetla u prostoriji sa pokvarenim vratima.
-SCP-079 će biti zadržan tako što se upale agregati u Teškoj Zadržilačkoj Zoni i pritiskom dugmeta u njegovoj prostoriji.
-Kamera koju koristi SCP-079 će svjetliti plava. Nikad ne znaš kada gleda.
+SCP-914 može da napravi mnogo jedinstvenih stavri koje se ne mogu naći nigdje drugdje. Slobodno eksperimentišite!
+SCP-079 može da zaključa vrata, isključi svjetla i upali Električne kapije.
+Električna kapija u koju gleda SCP-079 će da izgleda kao aktivna.
+SCP-079 se zadrži koristeći agregate rasprostranjene u Teškoj Sadržilačkoj Zoni, i dugmetom u njegovoj sadržilačkoj sobi.
+SCP-079 može da promjeni zum kamere koristeći točkića na mišu.
+Što duže SCP-079 drži vrata zaključana više struje će mu trebati da ostanu zaključana.
+SCP-079 odključa Breach skener na nivou 4. Ako prepozna da čovjek se skriva u sobi, alarm će se oglasiti.
+SCP-079 može da aktivira Alpha Warhead bombu na niovu 5. Preživjeće ekspolziju ako je on taj koji je pokrenuo odbrojavanje bombe.
+Kamera koju koristi SCP-079 će svjetliti plava. Budite pažljivi! Nikada ne znate kada posmatra.
 SCP-173 može da se pomjera u prostorijama čija su svjetla ugašena, čak i ako ga neko gleda. Ponesi svjetlo!
 SCP-173 može da tiho ubije nekoga ako su iza njih.
 SCP-173 može da napravi lokvu što usporava sve ljude — praveći brzu i efikasanu zabranu prolaza.
-SCP-106 je otporan na metke, a ne na granate i sturju.
-SCP-106 se može brzo i lako zadržati uz pomoć žrtvovanja čovjeka u prostoriji SCP-106.
 SCP-106 može da hoda kroz vrata i staklo.
-SCP-096 je najslabiji kad se počinje smirivati.
-SCP-096 može da brzo trči kad pritisne lijevi klik – uništavajući vrata i ubijajući neprijatelje.
+Dok u Uhodi, SCP-106 može da vidi ljude u kratkom vidiku oko njega.
+SCP-106 može da otvori mapu obližnjih soba da se teleportuje do, normalno se koristi "TAB" dugme.
+Moći SCP-106 koriste resursu poznatu kao "Vigor" koju gubi tokom korisšćena moći.
+SCP-106 je najslabiji odmah kada izlazi iz poda.
+SCP-096 je najslabiji kada je tek počeo da se smiruje.
+SCP-096 je može da zatrči napred dok je ljut - uništavajući vrata i ubijanje meti.
 SCP-096 može uništiti vrata i otvoriti teške kapije kad je poludio.
-SCP-939 ugriz nije pod uticajem pancira.
-SCP-939 daje amneziju kad ujede, smanjivajući vid.
-SCP-939 može da trči zauvjek i da hoda tiho.
-SCP-939 je tih kad hoda, praveći ga veoma dobrog predatora.
+SCP-939 može da oponaša glasove igrača koje je prije ubilo.
+SCP-939 može da pusti oblak amnestičkog gasa. Ljudi pod efektom gasa ne mogu da vide SCP-939 prije nego što napadne.
+Koristeći adrenalin uklanja efekte od SCP-939 amnestičkog oblaka.
+Flašbeng granate su veoma efektivne protiv SCP-939.
+Što niža kondicija SCP-939, teže prepoznaje igrače.
+Što duže SCP-939 je u Fokusu, više postaje Ultrazensitivno!
 Zvukovi hodanja SCP-ova su veoma posebni, slušaj dobro!
-SCP-049 može da ubije čovjeka brzo, ako priđe odvoljno blizu.
+Ako je čovjek napadnut od strane SCP-049, ono njima daje srčani udar. Život i kondicija brzo se troši tokom toga.
+SCP-049 može odmah da ubije čovjeka pod efektom Srčanog napada.
+Srčani napad brzo uzima život. Trebaće vam medicinske zalihe ako ga želite preživiti.
 SCP-049 može samo da reanimira leševe ako su svježi.
+SCP-049 može da dadne malo štita njegovim SCP-049-2 instancama koja su blizu.
 SCP-049-2 je podložan pucanja u glavu.
 SCP-049-2 prave dobre izviđače i opasni su u velikom broju.
+SCP-049-2 obično treba 3 udarca prije nego što ubije čovjeka.
+Mnogo SCP anomalija imaju štit pod imenom "Hume Shield", surpsotavlja se mnogim načinima štete i regeneriše se poslije nekog vremena.

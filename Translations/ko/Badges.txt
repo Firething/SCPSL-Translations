@@ -57,3 +57,5 @@ SCP:SL 게임 감독 보조
 Northwood 기술 지원 관리자
 Northwood 기술 지원 매니저
 Northwood 시스템 관리 매니저
+SCP:SL 내러티브 디자이너
+Northwood 마케팅 플랫폼 감독

@@ -1,4 +1,4 @@
-Destacamento Móvil Épsilon-11 designada [designation] ha ingresado a la instalación.<split>Se aconseja a todo el personal restante que proceda con los protocolos estándares de evacuación hasta que un escuadrón del DM llegue a su ubicación.<split>
+Destacamento Móvil Épsilon-11 designada [designation] ha ingresado en la instalación.<split>Se aconseja a todo el personal restante que proceda con los protocolos estándares de evacuación hasta que un escuadrón del DM llegue a su ubicación.<split>
 Esperando la recontención de: [count] sujetos SCP.
 Esperando la recontención de: 1 sujeto SCP.
 Permanecen amenazas sustanciales para la seguridad en la instalación. Proceda con precaución.
@@ -17,10 +17,10 @@ extraviado en la Secuencia de Descontaminación.
 <split>Todos los generadores han sido activados con éxito.
 Sobrecarga en 3... 2... 1...
 La instalación vuelve a estar en modo operativo.
-Atención a todo el personal.<split>La descontaminación general de la Zona de Contención Ligera comenzará en T-15 minutos.<split>Todas las sustancias biológicas deben ser retiradas para evitar su destrucción.
-Peligro, la descontaminación general de la Zona de Contención Ligera comenzará en T-[time] minutos.
-Peligro, la descontaminación general de la Zona de Contención Ligera comenzará en T-1 minuto.
-Peligro, la descontaminación general de la Zona de Contención Ligera comenzará en T-30 segundos.<split>Todos los puntos de control se han abierto de forma permanente. Por favor, evacue inmediatamente.
+Atención a todo el personal.<split>El proceso de descontaminación de la Zona de Contención Ligera comenzará en T-15 minutos.<split>Todas las sustancias biológicas deben ser retiradas para evitar su destrucción.
+Peligro, la descontaminación total de la Zona de Contención Ligera comenzará en T-[time] minutos.
+Peligro, la descontaminación total de la Zona de Contención Ligera comenzará en T-1 minuto.
+Peligro, la descontaminación total de la Zona de Contención Ligera comenzará en T-30 segundos.<split>Todos los puntos de control se han abierto permanentemente. Por favor, evacue de imnediato.
 La Zona de Contención Ligera está bloqueada y lista para la descontaminación.<split>La eliminación de sustancias orgánicas ha empezado.
 SECUENCIA DE DETONACIÓN DE EMERGENCIA DE LA OJIVA ALFA INICIADA.<split>LA SECCIÓN SUBTERRÁNEA DE LA INSTALACIÓN SERÁ DETONADA EN T-[time] SEGUNDOS.
 DETONACIÓN CANCELADA. REINICIANDO SISTEMAS.

@@ -16,7 +16,7 @@
 15~Linterna~¡Que se haga la luz!
 16~Micro H.I.D.~Desintegrador Móvil de Alta Intensidad.
 17~SCP-500~La panacea.
-18~SCP-207~Aumenta de forma perjudicia tu velocidad de movimiento.
+18~SCP-207~Aumenta perjudicialmente tus habilidades motoras.
 20~MTF-E11-SR
 21~Crossvec
 23~FSP-9
