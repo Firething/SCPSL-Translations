@@ -60,7 +60,7 @@ SCP-173 pode se mover livremente em salas escuras, mesmo se estiver sendo observ
 SCP-173 pode matar furtivamente por trás.
 SCP-106 pode atravessar portas e janelas de vidro.
 SCP-049-2 é vulnerável a tiros na cabeça.
-Enquanto estiver usando Stalk, SCP-106 pode ver humanos em um raio curto ao seu redor.
+Enquanto estiver usando Perseguição, SCP-106 pode ver humanos em um raio curto ao seu redor.
 SCP-106 pode abrir um mapa de salas próximas para se teletransportar, vinculado ao ‘TAB’ por padrão.
 As habilidades do SCP-106 dependem de um recurso conhecido como ‘Vigor’, que é drenado a cada habilidade que ele usa.
 SCP-106 é mais vulnerável imediatamente após emergir do solo.
