@@ -28,7 +28,7 @@
 32~SCP-268~Quando usado, torna você temporariamente invisível, à menos que seja interrompido por qualquer interação do usuário.
 33~Adrenalina~Aumenta temporariamente a resistência.
 34~Analgésicos~Trata machucados menores.
-35~Moeda~Você não tem certeza do por que deseja carregar isso por aí...
+35~Moeda~Você não tem certeza se deseja carregar isso por aí...
 36~Colete Leve
 37~Colete de Combate
 38~Colete Pesado
