@@ -17,7 +17,7 @@ Você pode jogar itens (‘T’ por padrão). Isso pode ser usado para abrir por
 A Zona de Contenção Leve será bloqueada após 15 minutos; matando qualquer um que permaneça dentro. Fuja enquanto pode!
 Maximize sua vantagem ajustando os acessórios de sua arma com base na situação em que você se encontra.
 Quanto mais acessórios uma arma tiver, mais pesada ela ficará. Isso afeta o uso de estâmina e a velocidade de movimento.
-Os supressores não apenas abafam tiros, mas também escondem os flashes do cano.
+Os supressores não abafam apenas tiros, mas também escondem os flashes do cano.
 Armas mais longas e pesadas são menos precisas se disparadas enquanto corre.
 Vestir um colete aumenta o número de itens e munição que você pode carregar.
 Projéteis perfurantes (AP) são mais efetivos contra alvos blindados.
@@ -29,7 +29,7 @@ Granadas podem ser lançadas com menos força usando o botão direito do mouse.
 A Micro H.I.D. pode matar a maioria dos SCPs muito rapidamente, mas tem uma fonte de alimentação limitada. Use-a com sabedoria!
 A Micro H.I.D. requer cerca de cinco segundos de carregamento antes de poder disparar.
 Segurar o botão direito do mouse manterá a Micro H.I.D. em seu estado pronto para disparar; drenando lentamente a energia.
-A Micro H.I.D. é muito alta ao carregar. Certifique-se de usá-la enquanto seus alvos não podem fugir.
+A Micro H.I.D. é muito barulhenta ao carregar. Certifique-se de usá-la enquanto seus alvos não podem fugir.
 Carregar a Micro H.I.D. produz um som intimidador que é suficiente para arruinar os planos de seus inimigos.
 Uma garrafa de SCP-207 não apenas aumenta sua velocidade de movimento, mas também restaura parcialmente sua saúde.
 Até quatro garrafas de SCP-207 podem ser consumidas, permitindo um multiplicador significativo à sua velocidade.
