@@ -6,7 +6,7 @@ Sua estâmina é um recurso precioso, reserve um pouco para emergências!
 A Zona de Entrada tem dois portões que dão acesso à superfície. Você precisará de um cartão-chave para abri-los.
 Usar um elevador é uma maneira rápida e fácil de escapar da maioria dos SCPs.
 Class-Ds que escaparam se juntam à Insurgência do Caos, enquantos Cientistas que escaparam viram MTF.
-A adrenalina pode ser usada para recuperar instantaneamente sua estamina e lhe dá uma vantagem em combate.
+A adrenalina pode ser usada para recuperar instantaneamente sua estâmina e lhe dá uma vantagem em combate.
 Os rádios têm quatro configurações de alcance. Quanto maior o alcance, mais rápido a bateria se descarrega.
 Os portões de Tesla são perigos elétricos encontrados em toda a Zona de Contenção Pesada. Prossiga com cuidado!
 Unidades da Força-Tarefa Móvel e Insurgentes do Caos chegam em lados opostos da Zona de Superfície.
