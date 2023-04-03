@@ -45,7 +45,7 @@ Limit $ZGASZONYCH ŚWIATŁEŁ$ zwiększony do $[number]$ pomieszczeń.
 $BLOKOWANIE POMIESZCZEŃ$ jest dostępne - naciśnij $[key]$, aby zablokować wszystkie drzwi w pomieszczeniu.
 +[amount] EXP - Komenda administratora
 +[amount] EXP - Pomoc w zabiciu personelu klasy D
-+[amount] EXP - Pomoc w zabiciu naukowca 
++[amount] EXP - Pomoc w zabiciu naukowca
 +[amount] EXP - Pomoc w zabiciu ochroniarza
 +[amount] EXP - Pomoc w zabiciu Nine-Tailed Fox
 +[amount] EXP - Pomoc w zabiciu rebelii chaosu
@@ -72,3 +72,23 @@ Praktycznie niezniszczalny:Trzy generatory znajdują się w Strefie Wyższego Na
 Nielimitowany dostęp:Możesz kontrolować wiele systemów w placówce, pomagając innym podmiotom SCP. W prawym górnym rogu twojego ekranu wyświetlane są dostępne umiejętności. Każda z nich zużywa energię, która z czasem się regeneruje.
 Głębokie uczenie:Pomaganie podmiotom SCP jest wynagradzane w postaci doświadczenia, potrzebnego do uzyskania następnego poziomu dostępu. Każdy kolejny poziom zapewnia więcej energii oraz nowe umiejętności.
 Obserwacja:Będąc wszędzie i zarazem nigdzie posiadasz unikatową perspektywę całej placówki. Możesz zaznaczać lokacje, ludzi oraz obiekty zainteresowań, pomagając członkom drużyny w rzeźni.
+$WYKRYWACZ WYŁOMÓW$ dostępny — wybierz drużyny/strefy na $mapie Placówki$, aby cyklicznie skanować w poszukiwaniu pozostałych ocalałych.
+WSTRZYMANO REGENERACJĘ ENERGII
+ZMNIEJSZONO REGENERACJĘ ENERGII O [precentage]
+Blokada drzwi aktywna
+Głośnik w użyciu
+Trwa blokowanie pomieszczenia
+WYKRYWACZ WYŁOMÓW
+WRÓC DO MAPY
+Wykrywacz Wyłomów - [cnt] strefy
+WYBRANE STREFY: [cnt]
+WYBIERZ STREFY, ABY JE ZESKANOWAĆ
+Wyniki skanowania: $Brak wykrytych nieruchomych celów$.
+Następna próby za [time] sekund...
+Wyniki skanowania: $[role]$ wykryto w ‘$[camera_name]$’ ([zone]).
+NASTĘPNY SKAN: [time] s
+Skanowanie...
+SKANOWANIE WSTRZYMANE
+WYBIERZ DRUŻYNY DO WYKRYCIA
+Wykrywacz wyłomów ukazuje pozostałe cele, które przebywają przez dłuższy czas na tym samym obszarze.
+Wybierz co najmniej jeden filtr, aby kontynuować!

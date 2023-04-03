@@ -57,3 +57,5 @@ Asystent Głównego Dyrektora Rozwoju SCP:SL
 Nadzorca Działu Pomocy Technicznej Northwood
 Kierownik Działu Pomocy Technicznej Northwood
 Kierownik Administracji Systemów Northwood
+Projektant Narracji SCP:SL
+Nadzorca Marketingu Northwood
