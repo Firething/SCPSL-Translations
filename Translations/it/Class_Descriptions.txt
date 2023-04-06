@@ -1,6 +1,6 @@
-Uccidi tutti.\nNon far scappare nessuno.\nCoopera con gli altri <color=#F00>SCP</color>.<color=#FFFF00>\nManteni premuto in tasto per mirare per teletrasportarti nel mentre che sei visto.\nResisterai a qualche danno delle armi da fuoco, ed hai uno scudo che si rigenera.</color>
+Uccidi tutti.\nNon far scappare nessuno.\nCoopera con gli altri <color=#F00>SCP</color>.<color=#FFFF00>\nManteni premuto il tasto per mirare per teletrasportarti nel mentre che sei visto.\nResisterai a qualche danno delle armi da fuoco, ed hai uno scudo che si rigenera.</color>
 Fuggi dalla struttura.\nCoopera con la <color=#008F1E>Chaos Insurgency</color>.\nEvita le altre squadre.
-Verrai rigenerato a breve. Come <color=#0096FF>Nine-Tailed Fox</color> o <color=#008F1E>Chaos Insurgency</color>.
+Verrai rigenerato a breve.
 Uccidi tutti.\nNon far scappare nessuno.\nCoopera con gli altri <color=#F00>SCP</color><color=#FFFF00>.\nPuoi camminare attraverso le porte.\nIl tasto sinistro del mouse danneggierà i nemici e li teletrasporterà nella dimensione tascabile.\nTieni premuto TAB per accedere alle opzioni di teletrasporto.</color>
 Aiuta gli <color=#FFFF7CFF>Scienziati</color> a scappare.\nNeutralizza gli altri soggetti.\nDai ordini ai tuoi sottoposti.\nSegui gli ordini dei tuoi superiori.
 Uccidi tutti.\nNon far scappare nessuno.\nCoopera con gli altri <color=#F00>SCP</color><color=#FFFF00>.\nPremi il tasto sinistro del mouse per uccidere istantaneamente i nemici con un breve cooldown.\nInteragisci con un essere umano morto di recente per resuscitarlo come alleato.</color>

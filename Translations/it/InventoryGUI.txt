@@ -13,5 +13,5 @@ Velocità di movimento
 Limite degli oggetti:
 Limite delle munizioni:
 {0} complessivamente
-Penetrazione Corazza
+Penetrazione armatura
 Precisione

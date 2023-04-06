@@ -1,0 +1,24 @@
+None
+SCP-173
+คลาส-ดี
+ผู้สังเกตการณ์
+SCP-106
+NTF Specialist
+SCP-049
+นักวิจัย
+SCP-079
+Chaos Conscript
+SCP-096
+SCP-049-2
+NTF Sergeant
+NTF Captain
+NTF Private
+Tutorial
+หน่วยรักษาความปลอดภัย
+SCP-939
+Custom Role
+Chaos Rifleman
+Chaos Repressor
+Chaos Marauder
+Overwatch
+Filmmaker

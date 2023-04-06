@@ -17,11 +17,11 @@ perso nella Sequenza di Decontaminazione.
 <split>Tutti i generatori sono stati attivati con successo.
 Sovraccaricamento in 3... 2... 1...
 La struttura è tornata operativa.
-Attenzione, a tutto il Personale.<split>Il processo di Decontaminazione nella Light Containment Zone avverrà tra (Tminus)15 minuti.<split>Tutte le sostanze biologiche dovranno essere eliminate per evitarne la distruzione.
-Pericolo, la Light Containment Zone verrà decontaminata in (Tminus)[time] minuti.
-Pericolo, la Light Containment Zone verrà decontaminata in (Tminus)1 minuto.
-Pericolo, la Light Containment Zone verrà decontaminata in (Tminus)30 secondi.<split>Tutti i checkpoint sono stati permanentemente aperti. Siete pregati di evacuare IMMEDIATAMENTE.
+Attenzione, a tutto il Personale.<split>Il processo di Decontaminazione nella Light Containment Zone avverrà tra 15 minuti.<split>Tutte le sostanze biologiche dovranno essere eliminate per evitarne la distruzione.
+Pericolo, la Light Containment Zone verrà decontaminata in [time] minuti.
+Pericolo, la Light Containment Zone verrà decontaminata in 1 minuto.
+Pericolo, la Light Containment Zone verrà decontaminata in 30 secondi.<split>Tutti i checkpoint sono stati permanentemente aperti. Siete pregati di evacuare IMMEDIATAMENTE.
 La Light Containment Zone è bloccata e pronta per la decontaminazione.<split>La rimozione delle sostanze organiche è ora iniziata.
-SEQUENZA DI DETONAZIONE DELLA ALPHA WARHEAD ATTIVATA.<split>LA SEZIONE SOTTERRANEA DELLA STRUTTURA SARÀ FATTA DETONARE TRA (TMINUS)[time] SECONDI.
+SEQUENZA DI DETONAZIONE DELLA ALPHA WARHEAD ATTIVATA.<split>LA SEZIONE SOTTERRANEA DELLA STRUTTURA SARÀ FATTA DETONARE TRA [time] SECONDI.
 DETONAZIONE ANNULLATA. SISTEMI IN RIAVVIO.
-SEQUENZA DI DETONAZIONE RIPRESA, (TMINUS)[time] SECONDI.
+SEQUENZA DI DETONAZIONE RIPRESA, [time] SECONDI.

@@ -20,7 +20,7 @@ Noclip
 Console di gioco
 Tasto di scelta rapida delle Tessere magnetiche
 Ispeziona
-Carica del grilletto della Revolver
+Carica il grilletto della Revolver
 Lancia oggetto
 Tasto di scelta rapida dell'arma Primaria
 Tasto di scelta rapida dell'arma Secondaria

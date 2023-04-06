@@ -53,7 +53,9 @@ SCP:SL Gemeinschafthelfer
 SCP:SL Stimmbildner
 SCP:SL Foundation Investor
 Northwood Studiodirektor
-SCP:SL Spieldirektor-Assistent
+SCP:SL Assistent des Spieldirektors
 Northwood Tech Support-Supervisor
 Northwood Tech Support-Manager
 Northwood Systemadministrator-Manager
+SCP:SL Narrativer Designer
+Northwood Supervisor der Marketing-Plattform

@@ -1,7 +1,7 @@
 <color=green>APERTO</color>
 <color=#07A2FF>CHIUSO</color>
 <color=orange>IN MOVIMENTO</color>
-<color=red>LOCKDOWN</color>
+<color=red>ISOLAMENTO</color>
 <color=red>ERRORE</color>
 <color=red>ACCESSO NEGATO</color>
 <color=green>ACCESSO GARANTITO</color>

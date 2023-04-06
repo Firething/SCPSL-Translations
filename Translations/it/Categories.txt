@@ -4,7 +4,7 @@ Medicinali
 Radio
 Armi da fuoco
 Granate
-Elementi SCP
+Oggetti SCP
 Micro H.I.D.
 Munizioni
-Corazze
+Armature

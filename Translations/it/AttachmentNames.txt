@@ -1,26 +1,26 @@
-Nessuna modifica~Accessorio di base, senza alcun effetto.
-Mirino di Ferro~Una coppia di marcatori di allineamento che costituiscono un semplice e leggero dispositivo di avvistamento.
-Mirino Red Dot~Mirino di tipo REFLEX con ingrandimento 1x con un punto illuminato che indica la traiettoria di tiro.
-Mirino Olografico~Mirino di tipo OLOGRAFICO con ingrandimento 1x, efficace nel combattimento ravvicinato.
-Mirino con Visore Notturno~Mirino di tipo TELESCOPICO con VISIONE NOTTURNA, pesante ma efficace in tutte le condizioni di illuminazione.
-Mirino Contatore di Munizioni~Mirino di ferro con integrato un dipositivo per il conteggio delle munizioni rimanenti.
-Mirino Telescopisco~Mirino di tipo TELESCOPICO, perfetto per cecchini. Perfetto per il lungo raggio, ma limita la percezione complessiva.
+Nessuna modifica~Accessorio di base, non ha alcun effetto.
+Mirino di ferro~Una coppia di marcatori di allineamento, con un ingrandimento 1.3x, che costituiscono un semplice e leggero dispositivo d'avvistamento.
+Mirino Red Dot~Mirino di tipologia REFLEX con un ingrandimento 1.5x, con un punto illuminato centrale, che indica la traiettoria di tiro.
+Mirino olografico~Mirino di tipo OLOGRAFICO con ingrandimento 1.5x, efficace nel combattimento ravvicinato.
+Mirino con Visore Notturno~Mirino di tipo TELESCOPICO con VISIONE NOTTURNA, ingrandimento 3.3x, pesante ma efficace in tutte le condizioni d'illuminazione.
+Mirino con contatore di munizioni~Mirino di ferro con integrato un dipositivo per il conteggio delle munizioni rimanenti, ingrandimento 1.3x.
+Mirino Telescopisco~Mirino di tipo TELESCOPICO, con ingrandimento 6x, perfetto per cecchini. Molto utilizzato per il lungo raggio, ma limita la percezione complessiva.
 Calcio standard~Fornire le migliori condizioni per avere un'arma stabile se si mira verso il basso.
-Calcio estesa~Fornisce una migliore prestazione per quando si mira verso il basso, ci vorrà può tempo per equipaggiarla.
+Calcio esteso~Fornisce una migliore prestazione per quando si mira verso il basso, ci vorrà più tempo per equipaggiarla.
 Calcio retratta~Rende l'arma più compatta, aumentando la mobilità.
-Calcio leggero~Riduce il peso dell'arma da fuoco, ma rende più difficile controllare il rinculo quando si punta verso il basso dal mirino.
+Calcio leggero~Riduce il peso dell'arma, ma rende più difficile controllare il rinculo quando si punta verso il basso dal mirino.
 Calcio pesante~L'aumento di peso riduce la mobilità, ma rende l'arma più stabile quando si punta verso il basso dal mirino.
 Calcio per la riduzione del rinculo~Calcio dotato di un sistema che tenta di disperdere la forza tra i singoli colpi.
-Impugnatura verticale~Impugnatura verticale in avanti. Rende più facile gestire il rinculo.
+Impugnatura verticale~Impugnatura verticale in avanti; rende più facile gestire il rinculo.
 Puntatore laser~Fornisce il punto di riferimento visivo sul bersaglio, ma può facilmente rivelare la vostra posizione.
 Torcia~Fonte di luce, attivabile. Aumenta il peso totale dell'arma, ma può essere un salvavita nelle aree buie.
-Contatore di Munizioni~Dispositivo per il conteggio di munizioni. Tecnologia sperimentale che ha dimostrato di essere utile, soprattutto con caricatori ad alta capacità.
-Canna Standard~Canna convenzionale senza alcun dispositivo annesso.
-Canna Lunga~Migliora la potenza di fuoco complessiva, ma riduce la mobilità causata dall'aumento di peso e lunghezza.
+Contatore di munizioni~Dispositivo per il conteggio di munizioni. Tecnologia sperimentale che ha dimostrato di essere utile, soprattutto con caricatori ad alta capacità.
+Canna standard~Canna convenzionale senza alcun dispositivo attaccato.
+Canna lunga~Migliora la potenza di fuoco complessiva, ma riduce la mobilità causata dall'aumento di peso e lunghezza.
 Silenziatore~Modera il suono, riducendone il volume degli spari, ma aumenta il peso complessivo e la lunghezza dell'arma.
-Rompifiamma~Elimina la fiammata del colpo. Renderà più semplice sparare in caso di illuminazione ridotta.
+Rompifiamma~Elimina la fiammata del colpo. Renderà più semplice sparare in caso d'illuminazione ridotta.
 Freno di bocca~Compensatore per il rinculo. Utilizza gas propellenti per ridurre il rinculo, ma aumenta l'intensità acustica degli spari.
-Muzzle Booster~Aumenta la velocità di fuoco, che si traduce in più danni al secondo, ma diminuisce il controllo del rinculo.
+Booster di rinculo~Aumenta la velocità di fuoco, ma diminuisce il controllo del rinculo.
 Caricatore FMJ~Caricatore standard che contiene proiettili pieni di metallo (Full-Metal Jacket).
 Caricatore AP~Caricatore standard che contiene proiettili perforanti (Armor-Piercing).
 Caricatore JHP~Caricatore standard che contiene proiettili a punta cava (Hollow-Point).

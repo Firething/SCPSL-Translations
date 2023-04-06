@@ -72,3 +72,23 @@ Praktisch unzerstörbar:Drei Generatoren spawnen in der Heavy Containment Zone. 
 Unbegrenzter Zugang:Du kannst zahlreiche Systeme in der Einrichtung manipulieren, um den anderen SCPs zu helfen. Oben rechts auf deinem Bildschirm wird dir angezeigt, welche Fähigkeiten verfügbar sind. Die Nutzung dieser Fähigkeiten kostet Reserve Energie (AP), die sich mit der Zeit regeneriert.
 Deep Learning:Wenn du bei Tötungen hilfst oder hilfreiche Aktionen für die anderen SCPs durchführst, erhälst du Erfahrung für eine neue Zugangsstufe. Jede neue Stufe bietet mehr AP und gewährt dir neue Fähigkeiten.
 Überwachung:Überall und nirgends zu sein gibt dir eine einzigartige Perspektive. Du kannst Orte, Personen und Objekte von Bedeutung anpingen und so beim Gemetzel helfen.
+$BREACH-SCANNER$ nun verfügbar - wähle Team(s)/ Zone(n) auf der $Karte$ aus, um regelmäßig nach verbleibenden Überlebenden zu scannen.
+REGENERATION DER RESERVE ENERGIE UNTERBROCHEN
+REGENERATION DER RESERVE ENERGIE REDUZIERT ([precentage])
+Tür-Verriegelung aktiv
+Lautsprecher in Benutzung
+Verriegelung im Gange
+BREACH-SCANNER
+ZUR KARTE ZURÜCKKEHREN
+Breach-Scanner - [cnt] Zone(n)
+AUSGEWÄHLTE ZONEN: [cnt]
+WÄHLE ZONEN ZUM SCANNEN AUS
+Scan Ergebnis: $Keine stationären Ziele entdeckt$.
+Erneuter Versuch in [time] Sekunden...
+Scan Ergebnis: $[role]$ entdeckt in ‘$[camera_name]$’ ([zone]).
+NÄCHSTER SCAN: [time] s
+Scannen...
+SCANVORGANG UNTERBROCHEN
+TEAMS ZUM SUCHEN AUSWÄHLEN
+Breach Scanner erkennt verbleibende Ziele, die sich über einen längeren Zeitraum im gleichen Bereich aufhalten.
+Wähle mindestens einen Filter aus, um fortzufahren!

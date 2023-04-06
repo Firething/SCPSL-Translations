@@ -1,4 +1,4 @@
-<size=80>SEI STATO ESPULSO</size>\nIl server ha forzato lo stop della connessione.\n<size=26>\nProbabilmente sei stato bannato temporaneamente dall'amministratore\no non rientri nei parametri richiesti dal server (es. connessione a Steam).\nPer possibili ban temporanei - gli autori del gioco non sono responsabili.\n</size>
+<size=80>SEI STATO ESPULSO</size>\nIl server ha forzato lo stop della connessione.\n<size=26>\nProbabilmente sei stato bannato temporaneamente dall'amministratore\no non rientri nei parametri richiesti dal server (es. connessione a Steam).\nPer possibili ban temporanei gli autori del gioco non sono responsabili.\n</size>
 <size=80>DISCONNESSO</size>\nL'host specificato non è disponibile.
 <size=80>DISCONNESSO</size>\nIl ConnectionID specificato non esiste.
 <size=80>DISCONNESSO</size>\nIl canale specificato non esiste.

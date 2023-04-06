@@ -6,7 +6,7 @@ Rateo di fuoco
 Rinculo
 Rinculo in modalità mirino
 Precisione del proiettile
-Precisione Hip-firing
+Precisione senza mira
 Precisione di mira
 Tempo di equipaggio
 Rumorosità dello sparo
