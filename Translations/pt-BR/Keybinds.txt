@@ -5,7 +5,7 @@ Interagir
 Inventário
 Recarregar
 Correr
-Chat de Voz
+Bate-papo por Voz
 Esgueirar-se
 Mover para Frente
 Mover para Trás
@@ -18,7 +18,7 @@ Alternar Lanterna
 Bate-papo por Voz Alternativo
 Noclip
 Console do Jogo
-Tecla de Atalho do Cartão-Chave
+Tecla de Atalho do Cartão
 Inspecionar
 Engatilhar Revólver
 Lançar Item
