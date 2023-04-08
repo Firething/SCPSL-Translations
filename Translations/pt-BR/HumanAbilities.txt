@@ -4,4 +4,4 @@ Inventário:Abra seu inventário e selecione um item que você pegou usando LMB 
 Desarmado:Você não tem nada. Ache algo. Qualquer coisa.
 Cartão de Acesso:Você tem um cartão de acesso, não é o melhor, mas não perca-o.
 Protocolo Padrão:Você está equipado com uma Arma, um Cartão de Acesso e alguns itens utilitários.
-Armado & Perigoso:Foi concedido à você Armamento Pesado, uma Ferramenta Hacker (Cartão de Acesso) e Suprimentos Médicos.
+Armado & Perigoso:Foi concedido a você armamento pesado, um ‘Dispositivo Hijacker’ (cartão de acesso) e suprimentos médicos.
