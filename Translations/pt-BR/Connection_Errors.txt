@@ -18,7 +18,7 @@
 <size=80>CONECTANDO</size>\n<size=35>Carregando o nível...</size>
 <size=35>Carregando a instalação...</size>
 <size=80>DESCONECTADO</size>\nUm erro não especificado ocorreu no servidor.
-<size=80>DESCONECTADO</size>\nEsse server requer autorização dos servidores centrais.
+<size=80>DESCONECTADO</size>\nEsse servidor requer autorização dos servidores centrais.
 <size=80>DESCONECTADO</size>\nVocê não está permitido a entrar nesse servidor (whitelist).
 <size=80>DESCONECTADO</size>\nVocê foi globalmente banido.
 <size=80>DESCONECTADO</size>\nVocê foi globalmente banido: [reason].
