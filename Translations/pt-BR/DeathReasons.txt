@@ -16,7 +16,7 @@ O veneno acabou com você.
 A pele pálida e o vazamento de sangue da boca sugerem sangramento interno causado pela ingestão da substância.
 SCP-207 acabou com você.
 Você não deveria ter pego mais de dois!
-Você foi pego por um Portão Tesla.
+Você foi pego por um Portão de Tesla.
 Estilhaços e queimaduras graves causadas por uma explosão.
 Você foi morto por uma explosão próxima.
 Lacerações maciças e perda excessiva de sangue.
@@ -27,7 +27,7 @@ Feridas de bala [ammotype].
 Trauma contuso fatal; o corpo está muito mutilado e despolpado.
 Sinais de trauma grave em ambos os fêmur sugerem morte por choque circulatório.
 Você foi sacrificado para recontenção de SCP-106.
-Automaticamente morto por fogo amigo.
+Automaticamente morto devido a fogo amigo.
 Pele fria e dedos congelados sugerem uma morte por hipotermia.
 Você congelou até a morte.
 Lacerações profundas e arranhões estão presentes no corpo.
