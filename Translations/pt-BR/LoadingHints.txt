@@ -5,7 +5,7 @@ Os Guardas da Instalação são fracos sozinhos, mas são fortes em grupo. Fique
 Sua estâmina é um recurso precioso, reserve um pouco para emergências!
 A Zona de Entrada tem dois portões que dão acesso à superfície. Você precisará de um cartão-chave para abri-los.
 Usar um elevador é uma maneira rápida e fácil de escapar da maioria dos SCPs.
-Class-Ds que escaparam se juntam à Insurgência do Caos, enquantos Cientistas que escaparam viram MTF.
+Classe-Ds que escaparam se juntam à Insurgência do Caos, enquantos Cientistas que escaparam viram MTF.
 A adrenalina pode ser usada para recuperar instantaneamente sua estâmina e lhe dá uma vantagem em combate.
 Os rádios têm quatro configurações de alcance. Quanto maior o alcance, mais rápido a bateria se descarrega.
 Os portões de Tesla são perigos elétricos encontrados em toda a Zona de Contenção Pesada. Prossiga com cuidado!
@@ -20,7 +20,7 @@ Quanto mais acessórios uma arma tiver, mais pesada ela ficará. Isso afeta o us
 Os supressores não abafam apenas tiros, mas também escondem os flashes do cano.
 Armas mais longas e pesadas são menos precisas se disparadas enquanto corre.
 Vestir um colete aumenta o número de itens e munição que você pode carregar.
-Projéteis perfurantes (AP) são mais efetivos contra alvos blindados.
+Projéteis perfurantes (AP) são zero mais efetivos contra alvos blindados.
 Projéteis de ponta oca (JHP) causam dano maior a alvos sem armadura, mas são mais fracos contra blindados.
 Pressione e segure a tecla de recarga da munição para descarregar uma arma, adicionando sua munição ao seu inventário.
 As armas da Insurgência do Caos são poderosas, mas suas munições não aparecem na Instalação. Faça valer a pena.
