@@ -17,7 +17,7 @@ Você pode jogar itens (‘T’ por padrão). Isso pode ser usado para abrir por
 A Zona de Contenção Leve será bloqueada após 15 minutos; matando qualquer um que permaneça dentro. Fuja enquanto pode!
 Maximize sua vantagem ajustando os acessórios de sua arma com base na situação em que você se encontra.
 Quanto mais acessórios uma arma tiver, mais pesada ela ficará. Isso afeta o uso de estâmina e a velocidade de movimento.
-Os supressores não abafam apenas tiros, mas também escondem os flashes do cano.
+Os supressores não abafam apenas tiros, como também escondem os flashes do cano.
 Armas mais longas e pesadas são menos precisas se disparadas enquanto corre.
 Vestir um colete aumenta o número de itens e munição que você pode carregar.
 Projéteis perfurantes (AP) são zero mais efetivos contra alvos blindados.
@@ -31,9 +31,9 @@ A Micro H.I.D. requer cerca de cinco segundos de carregamento antes de poder dis
 Segurar o botão direito do mouse manterá a Micro H.I.D. em seu estado pronto para disparar; drenando lentamente a energia.
 A Micro H.I.D. é muito barulhenta ao carregar. Certifique-se de usá-la enquanto seus alvos não podem fugir.
 Carregar a Micro H.I.D. produz um som intimidador que é suficiente para arruinar os planos de seus inimigos.
-Uma garrafa de SCP-207 não apenas aumenta sua velocidade de movimento, mas também restaura parcialmente sua saúde.
+Uma garrafa de SCP-207 não apenas aumenta sua velocidade de movimento, como também restaura parcialmente sua saúde.
 Até quatro garrafas de SCP-207 podem ser consumidas, permitindo um multiplicador significativo à sua velocidade.
-SCP-500 não apenas cura você, mas remove a maioria dos efeitos negativos e fornece regeneração temporária da saúde posteriormente.
+SCP-500 não apenas cura você, como também remove a maioria dos efeitos negativos e fornece regeneração temporária da saúde posteriormente.
 Enquanto SCP-268 torna você invisível para todos os humanos, SCP-079 ainda pode notá-lo.
 SCP-268 não irá salvá-lo de SCP-096 se você olhou para ele.
 SCP-018 é altamente imprevisível. Quando este for jogado, proteja-se.
@@ -62,7 +62,7 @@ SCP-106 pode atravessar portas e janelas de vidro.
 SCP-049-2 é vulnerável a tiros na cabeça.
 Enquanto estiver usando Perseguição, SCP-106 pode ver humanos em um raio curto ao seu redor.
 SCP-106 pode abrir um mapa de salas próximas para se teletransportar, vinculado ao ‘TAB’ por padrão.
-As habilidades do SCP-106 dependem de um recurso conhecido como ‘Vigor’, que é drenado a cada habilidade que ele usa.
+As habilidades do SCP-106 dependem de um recurso conhecido como ‘Vigor’, que é drenado à cada habilidade que ele usa.
 SCP-106 é mais vulnerável imediatamente após emergir do solo.
 SCP-096 é mais vulnerável quando começa a se acalmar.
 SCP-096 pode disparar adiante enquanto enfurecido - quebrando portas e matando alvos.
