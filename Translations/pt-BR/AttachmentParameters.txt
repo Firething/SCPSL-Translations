@@ -1,4 +1,4 @@
-ADS Zoom
+Sens. da Mira
 ---
 Dano
 Penetração
