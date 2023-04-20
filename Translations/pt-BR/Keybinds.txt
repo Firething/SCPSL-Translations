@@ -13,7 +13,7 @@ Mover para Esquerda
 Mover para Direita
 Lista de Jogadores
 Informações do Personagem
-Administrador Remoto
+Administração Remota
 Alternar Lanterna
 Bate-papo por Voz Alternativo
 Noclip
