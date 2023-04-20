@@ -21,7 +21,7 @@ Vídeo
 Controles
 Jogabilidade
 Outros
-Modo da Janela
+Modo de Janela
 Tela Cheia Exclusiva
 Janela Sem Bordas
 Janela Maximizada
@@ -30,7 +30,7 @@ Sincronização Vertical
 Limite de FPS
 Desligado
 Qualidade da Textura
-Decals
+Decalques
 Sombras
 Qualidade da Sombra
 Distância da Sombra
@@ -79,14 +79,14 @@ Permite que jogadores vejam o seu perfil da Steam clicando no ícone na lista de
 Do Not Track (DNT)
 Proíbe que o servidor utilize os seus dados (endereço IP, ID de usuário, etc.) em propósitos não relacionados à segurança do servidor.
 API Gráfica
-Criar servidores diretamente pelo jogo não é mais suportado.\nExistem atualmente 3 maneiras de criar um servidor de SCP:SL:\n- Você pode baixar o SCP:SL Dedicated Server (Steam AppID: 996560) e executá-lo no seu computador\n- Você pode comprar uma VPS ou um Servidor Dedicado de um provedor de hospedagem e executar o SCP:SL Dedicated Server lá\n- Você pode comprar um servidor SCP:SL de uma hosting de server que fornece suporte para SCP:SL (ex.: ZAP Hosting)\nClique nos links abaixo para ter mais informações. Você pode pedir para o nosso suporte técnico\n (link para o nosso servidor Discord pode ser encontrado no menu principal) para assistência.
+Criar servidores diretamente pelo jogo não é mais suportado.\nExistem atualmente 3 maneiras de criar um servidor de SCP:SL:\n- Você pode baixar o SCP:SL Dedicated Server (AppID na Steam: 996560) e executá-lo no seu computador\n- Você pode comprar uma VPS ou um Servidor Dedicado de um provedor de hospedagem e executar o SCP:SL Dedicated Server lá\n- Você pode comprar um servidor SCP:SL de uma hosting de server que fornece suporte para SCP:SL (ex.: ZAP Hosting)\nClique nos links abaixo para ter mais informações. Você pode solicitar para o nosso suporte técnico\n (link para o nosso servidor Discord pode ser encontrado no menu principal) por assistência.
 FORÇAR CRIAÇÃO
 LEIA MAIS
 COMPRAR SERVIDOR
 CANCELAR
 Segundo(s)
 Por jogar o nosso jogo!
-Piscar Hotbar ao Spawnar
+Piscar Hotbar ao Nascer
 Oclusão de Ambiente
 Luzes Volumétricas
 Bloom
