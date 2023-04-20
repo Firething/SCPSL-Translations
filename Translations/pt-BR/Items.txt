@@ -8,7 +8,7 @@
 7~Cartão de Sargento NTF
 8~Cartão de Capitão NTF
 9~Cartão de Diretor da Instalação
-10~Dispositivo de Acesso da Insurgência do Caos
+10~Dispositivo Hijacker da Insurgência do Caos
 11~Cartão nível-O5
 12~Rádio
 13~COM-15
