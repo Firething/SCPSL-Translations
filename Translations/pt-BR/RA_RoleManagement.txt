@@ -18,7 +18,7 @@ Guarda da Instalação
 SCP-939
 Classe Personalizada
 Fuzileiro Insurgente do Caos
-Repressor Insurgente do Caos
 Saqueador Insurgente do Caos
+Repressor Insurgente do Caos
 Supervisão
 Cineasta
