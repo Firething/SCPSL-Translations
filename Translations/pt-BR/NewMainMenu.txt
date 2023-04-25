@@ -40,7 +40,7 @@ Antisserrilhamento
 Renderizar Luzes
 Volume Principal
 Efeitos Sonoros
-Bate-papo de Voz
+Bate-papo por Voz
 Música do Menu
 Volume da Interface
 Tema do Menu
