@@ -1,4 +1,4 @@
-Força-Tarefa Móvel Unidade Epsilon-11, designada [designation], entrou na instalação.<split>Todos os funcionários restantes são aconselhados à prosseguir com os protocolos de evacuação padrões até que um esquadrão da MTF chegue ao seu destino.<split>
+Força-Tarefa Móvel Unidade Epsilon-11, designada [designation], entrou na instalação.<split>Todos os funcionários restantes são aconselhados a prosseguir com os protocolos de evacuação padrões até que um esquadrão da MTF chegue ao seu destino.<split>
 Aguardando re-contenção de: [count] entidades SCP.
 Aguardando re-contenção de: 1 entidade SCP.
 Ameaça substancial à segurança permanece dentro da instalação - Exerçam cautela.
@@ -19,7 +19,7 @@ Sobrecarga em 3... 2... 1...
 A instalação está de volta ao modo operacional.
 Atenção, todos os indivíduos.<split>O processo de descontaminação da Zona de Contenção Leve ocorrerá em T-15 minutos.<split>Todas as substâncias biológicas devem ser removidas para evitar destruição.
 Perigo, descontaminação geral da Zona de Contenção Leve em T-[time] minutos.
-Perigo, descontaminação geral da Zona de Contenção Leve T-1 minuto.
+Perigo, descontaminação geral da Zona de Contenção Leve em T-1 minuto.
 Perigo, descontaminação geral da Zona de Contenção Leve em T-30 segundos.<split>Todas as portas dos postos de controle foram permanentemente abertas. Por favor, evacue imediatamente.
 A Zona de Contenção Leve está bloqueada e pronta para descontaminação.<split>A remoção de substâncias orgânicas acabou de começar.
 SEQUÊNCIA DE DETONAÇÃO DE EMERGÊNCIA DA OGIVA ALFA FOI ATIVADA.<split>A SEÇÃO SUBTERRÂNEA DA INSTALAÇÃO SERÁ DETONADA EM T-[time] SEGUNDOS.
