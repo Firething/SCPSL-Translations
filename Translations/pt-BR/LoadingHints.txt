@@ -5,7 +5,7 @@ Os Guardas da Instalação são fracos sozinhos, mas são fortes em grupo. Fique
 Sua estâmina é um recurso precioso, reserve um pouco para emergências!
 A Zona de Entrada tem dois portões que dão acesso à superfície. Você precisará de um cartão-chave para abri-los.
 Usar um elevador é uma maneira rápida e fácil de escapar da maioria dos SCPs.
-Classe-Ds que escaparam se juntam à Insurgência do Caos, enquantos Cientistas que escaparam viram MTF.
+Classe-Ds que escaparam se juntam à Insurgência do Caos, enquanto Cientistas que escaparam viram MTF.
 A adrenalina pode ser usada para recuperar instantaneamente sua estâmina e lhe dá uma vantagem em combate.
 Os rádios têm quatro configurações de alcance. Quanto maior o alcance, mais rápido a bateria se descarrega.
 Os portões de Tesla são perigos elétricos encontrados em toda a Zona de Contenção Pesada. Prossiga com cuidado!
@@ -51,7 +51,7 @@ SCP-079 começa relativamente fraco, mas fica mais poderoso conforme a partida a
 SCP-079 pode trancar portas, desligar luzes e sobrecarregar portões de Tesla.
 Um portão de Tesla sendo observado por SCP-079 sempre parecerá ativo.
 SCP-079 pode ser recontido usando geradores encontrados na Zona de Contenção Pesada e um botão final em sua câmara de contenção.
-SCP-079 pode alterar o zoom de suas câmeras usando a roda do mouse.
+SCP-079 pode alterar a ampliação de suas câmeras usando a roda do mouse.
 Quanto mais tempo SCP-079 mantiver uma porta trancada, mais energia será necessária para mantê-la trancada.
 SCP-079 desbloqueia o ‘Sensor de Brecha’ no nível 4, habilidade que torna possível escanear a instalação por humanos. Se detectar um humano escondido em uma sala, um alarme soará.
 SCP-079 pode ativar a Ogiva Alfa no nível 5. Ele sobreviverá à detonação se for aquele que iniciou a contagem regressiva.
