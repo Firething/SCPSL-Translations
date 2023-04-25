@@ -1,7 +1,7 @@
 Nenhum~Opção padrão sem nenhum efeito aparente.
 Mira de Fábrica~Um par de marcadores de alinhamento que compõem um dispositivo de mira simples e leve.
 Mira Pontuda~Mira de reflexo sem ampliação com um pequeno ponto iluminado indicando onde mirar.
-Mira Holográfica~Mira sem ampliação com um retículo holográfico. Eficaz em combate a curta distância.
+Mira Holográfica~Mira sem ampliação com um retículo holográfico. Eficaz em combate à curta distância.
 Mira de Visão Noturna~Mira telescópica acrescentada com um dispositivo de visão noturna.\n Pesada, mas efetiva em todas as condições de iluminação.
 Mira com Contador de Munição~Mira de fábrica integrada com um dispositivo contador de munição.
 Mira Telescópica~Dispositivo de mira pesado, fornecendo ampliação óptica.\n Perfeito para longas distâncias, mas limita a percepção geral.
@@ -16,7 +16,7 @@ Mira Laser~Fornece um ponto de referência visual sobre o alvo, o que ajuda ao a
 Lanterna~Fonte de luz ativável. Aumenta o peso total da arma de fogo,\n mas pode ser um salva-vidas em áreas escuras.
 Contador de Munição~Dipositivo contador de munição. Tecnologia experimental que se provou útil,\n especialmente com pentes de alta capacidade.
 Cano Padrão~Cano convencional sem dispositivo de boca.
-Cano Estendido~Melhora o poder de fogo no geral,\n mas contríbui para a baixa mobilidade causada pelo aumento de peso e comprimento.
+Cano Estendido~Melhora o poder de fogo no geral,\n mas contribui para a baixa mobilidade causada pelo aumento de peso e comprimento.
 Silenciador~Moderador de som. Reduz o barulho dos tiros,\n mas aumenta o peso e o comprimento da arma de fogo no geral.
 Corta-chamas~Elimina a luz emitida pela boca da arma. Deixa mais fácil de atirar na escuridão.
 Freio de Boca~Compensador de recuo. Utiliza gases propulsores para reduzir o recuo,\n mas aumenta a intensidade acústica dos tiros.
@@ -42,5 +42,5 @@ Cano Curto~Versão menor do cano padrão, usada para melhorar a velocidade de ma
 Entrangulador~Aumenta o raio de dispersão, mas melhora a consistência do padrão.
 Cano Estendido~Reduz um pouco o raio de dispersão, mas aumenta o peso e comprimento da arma de fogo.
 Sem Coronha~Configurações curtas vem com grande mobilidade,\n mas remover a coronha de um rifle deixa impossível de mirar com segurança.
-Sistema de Disparo Único~Sistema padrão. Um puxão de gatilho leva à uma descarga.
+Sistema de Disparo Único~Sistema padrão. Um puxão de gatilho leva a uma descarga.
 Sistema de Disparo Duplo~Mecanismo de gatilho modificado que aciona os dois gatilhos com um único puxão.
