@@ -13,7 +13,7 @@ Apodreceu na Dimensão de Bolso.
 Derretido por uma substância altamente corrosiva.
 Pele amarela doentia e cheiro rançoso sugerem morte por veneno.
 O veneno acabou com você.
-A pele pálida e o vazamento de sangue da boca sugerem sangramento interno causado pela ingestão da substância.
+A pele pálida e o vazamento de sangue da boca sugerem sangramento interno causado pela ingestão de substâncias.
 SCP-207 acabou com você.
 Você não deveria ter pego mais de dois!
 Você foi pego por um Portão de Tesla.
@@ -25,7 +25,7 @@ Marcas de mordidas grandes e profundas no corpo podem ser observadas.
 Trauma contuso e pequenos arranhões estão presentes no corpo.
 Feridas de bala [ammotype].
 Trauma contuso fatal; o corpo está muito mutilado e despolpado.
-Sinais de trauma grave em ambos os fêmur sugerem morte por choque circulatório.
+Sinais de trauma grave em ambos fêmures sugerem morte por choque circulatório.
 Você foi sacrificado para recontenção de SCP-106.
 Automaticamente morto devido ao fogo amigo.
 Pele fria e dedos congelados sugerem uma morte por hipotermia.
