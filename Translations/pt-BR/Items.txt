@@ -21,7 +21,7 @@
 21~Crossvec
 23~FSP-9
 24~Logicer
-25~Granada Altamente-Explosiva~Boom!
+25~Granada Explosiva~Boom!
 26~Granada de Luz~Cega seus inimigos.
 30~COM-18
 31~SCP-018~Superbola capaz de quicar com extrema eficiência.
