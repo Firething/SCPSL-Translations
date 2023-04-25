@@ -1,4 +1,4 @@
-Sens. da Mira
+Ampl. da Mira
 ---
 Dano
 Penetração
