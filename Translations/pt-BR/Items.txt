@@ -14,7 +14,7 @@
 13~COM-15
 14~Kit Médico~Cura seus machucados.
 15~Lanterna~Que haja luz!
-16~Micro H.I.D.~Lançador de descarga elétrica móvel de alta intensidade.
+16~Micro H.I.D.~Lançador portátil de descarga elétrica de alta intensidade.
 17~SCP-500~Cura-tudo.
 18~SCP-207~Prejudicialmente aumenta as funções motoras.
 20~MTF-E11-SR
