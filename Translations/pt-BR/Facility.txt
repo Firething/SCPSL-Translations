@@ -16,7 +16,7 @@ INVENTÁRIO LOTADO
 SENSIBILIDADE
 HACKEANDO
 PEGANDO...
-Aumentar o brilho <b>piora significamente a experiência </b>do jogo.\nTente deixar esse valor o mais baixo possivel.\n<b>É recomendado deixar no valor padrão.</b>
+Aumentar o brilho <b>piora significamente a experiência </b>de jogo.\nTente deixar esse valor o mais baixo possivel.\n<b>É recomendado deixar no valor padrão.</b>
 [1] ABRIR/FECHAR PORTA\n[2] TRANCAR PORTA*\n\n*Fechar a porta usa a habilidade especial.
 PORTA FOI BLOQUEADA PELO SCP-079.
 Modo de tela cheia
@@ -37,7 +37,7 @@ Você foi algemado.\n<size=40>Siga as ordens ou peça ajuda aos seus aliados.</s
 Você foi recapturado pela Nine-Tailed Fox.\nCom uma ameaça a menos na instalação, eles puderam se reforçar.
 Você foi aprisionado pela Insurgência do Caos.\nEles puderam tirar vantagem das informações que você forneceu.
 RODADA INICIA EM: <color=yellow>{0}</color>s
-RODADA ESTÁ <color=#FF5050>PAUSADO</color>
+RODADA ESTÁ <color=#FF5050>PAUSADA</color>
 REDUÇÃO DA SENS. MIRANDO
 Pressione [key] para cancelar o arremesso.
 Alternar MIRAR
