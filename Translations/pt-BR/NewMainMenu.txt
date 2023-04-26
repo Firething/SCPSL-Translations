@@ -37,14 +37,14 @@ Distância da Sombra
 Desfoque de Movimento
 Correção de Cores
 Antisserrilhamento
-Renderizar Luzes
+Iluminação da Render. 
 Volume Principal
 Efeitos Sonoros
 Bate-papo por Voz
 Música do Menu
 Volume da Interface
 Tema do Menu
-Intro Desaparecer Rapidamente
+Desaparição Veloz da Intro
 Balanço da Cabeça
 Correr Alternado
 Exibir HP Exato
