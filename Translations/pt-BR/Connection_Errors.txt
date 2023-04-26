@@ -1,5 +1,5 @@
 <size=80>VOCÊ FOI EXPULSO</size>\nO servidor foi forçado a interromper a conexão.
-<size=80>DESCONECTADO</size>\nO host específicado não está disponível.
+<size=80>DESCONECTADO</size>\nO host especificado não está disponível.
 <size=80>DESCONECTADO</size>\nO ID de conexão especificado não existe.
 <size=80>DESCONECTADO</size>\nO canal especificado não existe.
 <size=80>DESCONECTADO</size>\nServidor está cheio.
@@ -27,7 +27,7 @@
 <size=80>DESCONECTADO</size>\nSeu token de autenticação expirou.\nServidor pode ter um horário ou fuso horário inválido definido.\nPor favor, contate um administrador do servidor.
 <size=80>DESCONECTADO</size>\nSua frequência de conexão foi limitada. Tente novamente em alguns segundos.
 <size=80>DESCONECTADO</size>\nServidor não está aceitando conexões da sua localização geográfica.\nO nome do servidor ou sua descrição podem conter mais informações.
-<size=80>DESCONECTADO</size>\nVocê foi expulso por uma modificação do servidor.\n\nMotivo: [reason]\nFoi uma modificação do servidor, não uma funcionalidade do jogo em si.\nEntre em contato com um administrador do servidor para mais detalhes.
+<size=80>DESCONECTADO</size>\nVocê foi expulso por uma modificação do servidor.\n\nMotivo: [reason]\nFoi uma modificação provinda do servidor, não uma funcionalidade do jogo em si.\nEntre em contato com um administrador do servidor para mais detalhes.
 <size=80>DESCONECTADO</size>\nSeu token de autenticação foi rejeitado pelo servidor.\nPor favor, reinicie o jogo ou entre em contato com o suporte técnico.
 <size=80>DESCONECTADO</size>\nVocê foi banido desse servidor.\nMotivo: [reason]
 <size=80>DESCONECTADO</size>\nVocê foi banido desse servidor.\nO banimento expira em: [date] [time]\nMotivo: [reason]
