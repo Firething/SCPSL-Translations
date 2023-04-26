@@ -37,13 +37,13 @@ TROCA DE CÂMERA FALHADA
 SINAL PERDIDO
 RECONECTANDO (ETA: [time]s)
 DISPARAR PORTÃO TESLA ([cost])
-ATIVAÇÃO DE PORTÃO TESLA EM RECARGA
+ATIVAÇÃO DE PORTÃO DE TESLA EM RECARGA
 $Nível de acesso [tier]$ - DESBLOQUEADO
 $PODER AUXILIAR$ limite aumentado para $[limit]$.
 $BLECAUTE$ disponível - pressione $[key]$ para desativar as luzes das salas,
 $BLECAUTE$ capacidade aumentou para $[number]$ salas.
 $CONFINAMENTO$ disponível - pressione $[key]$ para temporariamente trancar todas as portas em uma sala.
-+[amount] EXP - Comando de Admin
++[amount] EXP - Comando de Administrador
 +[amount] EXP - Assistência de eliminação de Classe-D
 +[amount] EXP - Assistência de eliminação de Cientista
 +[amount] EXP - Assistência de eliminação de Guarda
