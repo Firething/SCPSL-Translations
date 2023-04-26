@@ -13,8 +13,8 @@ ABRIR PORTA ([cost])
 FECHAR PORTA ([cost])
 TRANCAR PORTA ([cost])
 DESTRANCAR PORTA
-TRANCAR PORTA EM RECARGA
-PODER AUXILIAR
+TRANCA-PORTA EM RECARGA
+ENERGIA AUXILIAR
 VOCÊ ESTÁ SENDO ATACADO!
 LIBERAR TODAS AS PORTAS ([num] total)
 ABRIR MAPA DA INSTALAÇÃO
@@ -25,9 +25,9 @@ ZONA DE ENTRADA
 ZONA DE SUPERFÍCIE
 BLECAUTE ([cost])
 BLECAUTE INDISPONÍVEL NESTA SALA
-LIMITE DE BLECAUTE SIMULTÂNEOS ATINGIDO
+LIMITE DE BLECAUTES SIMULTÂNEOS ATINGIDO
 BLECAUTE DE SALA EM RECARGA
-ENVIAR ELEVATOR ([cost])
+ENVIAR ELEVADOR ([cost])
 CONFINAMENTO ([cost])
 CONFINAMENTO EM RECARGA
 SEM PORTAS DISPONÍVEIS PARA CONFINAMENTO
@@ -39,9 +39,9 @@ RECONECTANDO (ETA: [time]s)
 DISPARAR PORTÃO DE TESLA ([cost])
 ATIVAÇÃO DE PORTÃO DE TESLA EM RECARGA
 $Nível de acesso [tier]$ - DESBLOQUEADO
-$PODER AUXILIAR$ limite aumentado para $[limit]$.
+Limite da $ENERGIA AUXILIAR$ aumentado para $[limit]$.
 $BLECAUTE$ disponível - pressione $[key]$ para desativar as luzes das salas.
-$BLECAUTE$ capacidade aumentou para $[number]$ salas.
+Capacidade do $BLECAUTE$ aumentou para $[number]$ salas.
 $CONFINAMENTO$ disponível - pressione $[key]$ para temporariamente trancar todas as portas em uma sala.
 +[amount] EXP - Comando de Administrador
 +[amount] EXP - Assistência de eliminação de Classe-D
@@ -54,7 +54,7 @@ $CONFINAMENTO$ disponível - pressione $[key]$ para temporariamente trancar toda
 +[amount] EXP - Assistência de perseguição de aliado.
 +[amount] EXP - Proteção de aliado(s)
 +[amount] EXP - Preveniu uso da Micro H.I.D.
-FEED DE CÂMERA ON-LINE
+ALIMENTAÇÃO DA CÂMERA ON-LINE
 BLECAUTE DE ZONA ([cost])
 $BLECAUTE DE ZONA$ disponível - ao lado das designações de zona no $Mapa da Instalação$.
 BLECAUTE DE ZONA EM RECARGA
@@ -67,10 +67,10 @@ CIVIL
 MILITAR
 USAR ALTO-FALANTE
 ACESSO AO ELEVADOR NEGADO
-SCP-079 não possui capacidade de combate ou movimento direto. Alternadamente, você vê o mundo através de câmeras de segurança encontradas em todos os lugares. Todas as habilidades disponíveis estão listadas no canto superior direito do seu HUD.
-Virtualmente Indestrutível:Três geradores são distribuidos na Zona de Contenção Pesada. Se todos eles estiverem ativados, você poderá ser recontido na sua câmara. Os geradores têm uma sequência de contagem regressiva que qualquer jogador pode interromper pressionando o botão "CANCEL" no gerador.
-Acesso Ilimitado:Você pode manipular inúmeros sistemas da instalação para assistir os SCPs. O canto superior direito da tela mostra quais habilidades estão disponíveis. Essas habilidades custam energia auxiliar (AP) para usar, que se regenera com o tempo.
-Profunda Aprendizagem:Cooperar com assassinatos ou realizar ações úteis para os outros SCPs concederá a você experiência para um novo nível de acesso. Cada novo nível fornece mais AP e concede a você novas habilidades.
+SCP-079 não possui capacidade de combate direto ou locomoção. Alternadamente, você vê o mundo através de câmeras de segurança encontradas em todos os lugares. Todas as habilidades disponíveis estão listadas no canto superior direito do seu HUD.
+Virtualmente Indestrutível:Três geradores são distribuidos na Zona de Contenção Pesada. Se todos eles forem ativados, você poderá ser recontido na sua câmara. Os geradores têm uma sequência de contagem regressiva que qualquer jogador pode interromper pressionando o botão "CANCEL" no gerador.
+Acesso Ilimitado:Você pode manipular inúmeros sistemas da instalação para assistir os SCPs. O canto superior direito da tela mostra quais habilidades estão disponíveis. Essas habilidades custam energia auxiliar (EA) para usar, que se regenera com o tempo.
+Profunda Aprendizagem:Cooperar com assassinatos ou realizar ações úteis para os outros SCPs concederá a você experiência para um novo nível de acesso. Cada novo nível fornece mais EA e concede a você novas habilidades.
 Supervisão:Estar em todos os lugares e em nenhum lugar lhe garante uma perspectiva única. Você pode INDICAR locais, pessoas e objetos de interesse, permitindo que você ajude no massacre.
 $SENSOR DE BRECHA$ atualmente disponível — selecione classe(s)/zona(s) no $Mapa da Instalação$ para verificar periodicamente por sobreviventes restantes
 REGEN. DE ENERGIA SUSPENDIDA
