@@ -80,5 +80,5 @@ A parada cardíaca drena sua saúde rapidamente. Você precisará de suprimentos
 SCP-049 só pode reanimar cadáveres se forem recentes.
 SCP-049 pode fornecer um pequeno escudo para instâncias de SCP-049-2 que estejam próximas.
 SCP-049-2 é vulnerável a tiros na cabeça.
-SCP-049-2s são bons sentinelas e são perigosos em grandes números.
+SCP-049-2s são bons sentinelas e são perigosos em grande número.
 A maioria dos SCPs jogáveis têm uma barra de saúde secundária chamada ‘Escudo Hume’, que absorve dano e se regenera com o tempo.
