@@ -1,10 +1,10 @@
 Caramelos
 Caramelo arcoíris
-Es una pieza dura de caramelo roca, lleno de toda clase de sabores.
+Es una pieza dura de caramelo, lleno de toda clase de sabores.
 Otorga un gran número de pequeños beneficios, incluyendo regeneración de vida, resistencia y AHP.
 Caramelo amarillo
 El abrumador olor a limón hace que tiembles un poco.
-Te permite moverte más rápido y correr más rápido por un corto periodo de tiempo.
+Te permite moverte y correr más rápido por un corto periodo de tiempo.
 Caramelo púrpura
 Tiene un jugoso olor a uva. Se te hace agua la boca.
 Otorga resistencia temporal al daño y regenera lentamente la salud.

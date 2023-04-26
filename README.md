@@ -1,10 +1,11 @@
 <div align = center>
 
 # SCPSL Translations <br>![PRs](https://badgen.net/github/open-prs/northwood-studios/SCPSL-Translations?cache=600) ![Contributors](https://img.shields.io/github/contributors-anon/northwood-studios/SCPSL-Translations?cacheSeconds=3600) ![Forks](https://badgen.net/github/forks/northwood-studios/SCPSL-Translations?cache=600) ![MergedPRs](https://badgen.net/github/merged-prs/northwood-studios/SCPSL-Translations?cache=600) ![Checks](https://badgen.net/github/checks/northwood-studios/SCPSL-Translations?cache=600) [![](https://badgen.net/discord/members/scpsl)](https://discord.com/scpsl)<br>
-This repo is used by Northwood Studios for hosting and managing translations for the game *SCP: Secret Laboratory*. 
+This repo is used by Northwood Studios for hosting and managing translations for the game *SCP: Secret Laboratory*
 
 ***
   
+  # WE ARE NOT ACCEPTING NEW TRANSLATIONS CURRENTLY
 </div>
 
 ### We kindly ask that contributors:

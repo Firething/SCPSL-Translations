@@ -42,7 +42,7 @@ Allgemeine Lautstärke
 Soundeffekte
 Sprachchat
 Musik im Hauptmenü
-Interface Lautstärke
+Interface-Lautstärke
 Hauptmenü Thema
 Intro schnell ausblenden
 Kamera wackeln
@@ -61,7 +61,7 @@ Diese Änderung erfordert einen Neustart des Hauptmenüs.\nJetzt neustarten?
 Ja
 Nein
 Bist du dir sicher, dass du das Spiel beenden möchtest?
-Bildschirm Auflösung
+Bildschirmauflösung
 Verstecke IP
 Willkommen zurück, {username}!
 Credits
@@ -75,17 +75,17 @@ Ausgeschaltet
 Sekunden
 Ragdoll Beseitigungszeit
 Zeige Steamprofil an
-Erlaubt anderen Spielern dein Steamprofil aufzurufen wenn sie in der Spielerliste auf ein Icon klicken.
+Erlaubt anderen Spielern, dein Steamprofil aufzurufen, wenn sie in der Spielerliste auf ein Icon klicken.
 Do Not Track (DNT)
-Verbietet dem Server deine Daten (IP Adresse, User ID, etc.) zu nutzen, außer für Zwecke welche der Serversicherheit dienen.
+Verbietet dem Server, deine Daten (IP Adresse, User ID, etc.) zu nutzen, außer für Zwecke, welche der Serversicherheit dienen.
 Grafik API
-<size=18>Einen Server direkt im Spiel zu erstellen ist nicht mehr Nativ unterstützt.\nEs gibt zur Zeit 3 Möglichkeiten einen SCP:SL Server zu hosten:\n- Du kannst einen Server auf deinem Rechner mit dem Programm SCP:SL Dedicated Server (Steamapp ID: 996560) hosten.\n – Du kannst einen VPS oder dedizierten Server mieten und dort den SCP:SL Dedicated Server drauf laufen lassen.\n – Du kannst einen vorinstallierten SCP:SL Server von einem Hoster (z.B. Zap Hosting) mieten.\n\nKlicke auf die Links weiter unten um mehr Informationen dazu zu erhalten.\nDu kannst unseren Tech-Support bei Problemen um Hilfe bitten (Link zu unserem Discordserver kann im Hauptmenü gefunden werden)</size>
+<size=18>Einen Server direkt im Spiel zu erstellen ist nicht mehr nativ unterstützt.\nEs gibt zur Zeit drei Möglichkeiten, einen SCP:SL Server zu hosten:\n- Du kannst einen Server auf deinem Rechner mit dem Programm SCP:SL Dedicated Server (Steamapp ID: 996560) hosten.\n – Du kannst einen VPS oder dedizierten Server mieten und dort den SCP:SL Dedicated Server laufen lassen.\n – Du kannst einen vorinstallierten SCP:SL Server von einem Hoster (z.B. Zap Hosting) mieten.\n\nKlicke auf die Links weiter unten, um mehr Informationen dazu zu erhalten.\nDu kannst unseren Tech-Support bei Problemen um Hilfe bitten (Link zu unserem Discordserver kann im Hauptmenü gefunden werden)</size>
 <size=18>ERSTELLE TROTZDEM</size>
 <size=18>MEHR LESEN</size>
 <size=18>MIETE EINEN SERVER</size>
 <size=18>ABBRECHEN</size>
 Sekunde
-Für das spielen unseres Spieles!
+Für das Spielen unseres Spieles!
 Taskleiste beim Spawn aufblinken lassen
 Umgebungsunschärfe
 Volumetrische Lichter

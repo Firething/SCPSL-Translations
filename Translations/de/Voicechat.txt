@@ -1,5 +1,5 @@
-GESTUMMT VOM ADMIN
-GLOBAL GESTUMMT
+STUMMGESCHALTET VOM ADMIN
+GLOBAL STUMMGESTALTET
 UNAUTORISIERT
 PRIVATSPHÄRE-EINSTELLUNGEN ANPASSEN
 Dein Mikrofon ist aufgrund deiner Privatsphäre-Einstellungen deaktiviert.
@@ -11,7 +11,7 @@ Allen zustimmen
 Zustimmen
 Ablehnen
 Mikrofoneingabe
-Dem Spiel erlauben, deine Stimme aufzunehmen und an andere Spieler zu übertragen, wenn Push-to-Talk-Tasten gehalten werden. Ein Mikrofon-Symbol wird unten auf dem Bildschirm angezeigt, eine aktive Übertragung anzeigend. Das Spiel wird niemals deine Stimme übertragen oder dein Mikrofon verwenden, ohne dass dieses Symbol sichtbar ist.
+Dem Spiel erlauben, deine Stimme aufzunehmen und an andere Spieler zu übertragen, wenn Push-to-Talk-Tasten gehalten werden. Ein Mikrofon-Symbol wird unten auf dem Bildschirm angezeigt, um eine aktive Übertragung zu signalisieren. Das Spiel wird niemals deine Stimme übertragen oder dein Mikrofon verwenden, ohne dass dieses Symbol sichtbar ist.
 Kurze Aufnahmen
 Bestimmten Spielmechaniken erlauben, kurze Aufnahmen deiner Stimme zu verwenden. Dies beinhaltet SCP-939s "Imitator"-Fähigkeit, welche kurze Stimmübertragungen von getöteten Spielern aufnehmen und abspielen kann. Alle Aufnahmen werden gelöscht, sobald du den Server verlässt oder die Runde beendet ist.
 Einstellungen übernehmen

@@ -13,7 +13,7 @@ SCP-[scp]
 uspješno zadržan. Jedinica za zadržavanje nepoznata.
 uspješno zadržan. Sadržilačka jedinica [designation].
 izgubljen u procesu dekontaminacije.
-[current] od [max] agregata akivirano.
+[current] od [max] agregata aktivirano.
 <split>Svi agregati su uspješno aktivirani.
 Preopterećivanje za 3... 2... 1...
 Objekat je nazad u režimu operacije.

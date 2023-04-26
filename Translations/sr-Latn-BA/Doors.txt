@@ -1,6 +1,6 @@
 <color=green>OTVORENO</color>
 <color=#07A2FF>ZATVORENO</color>
-<size=5><color=orange>POMJERANJE</color></size>
+<size=23><color=orange>POMJERANJE</color></size>
 <color=red>ZAKLJUČANO</color>
 <color=red>GREŠKA</color>
 <color=red>PRISTUP ODBIJEN</color>

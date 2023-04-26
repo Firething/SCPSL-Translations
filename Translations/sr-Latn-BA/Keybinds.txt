@@ -1,11 +1,11 @@
 Pucanje
 Nišanjenje
 Skok
-Inerakcija
+Interakcija
 Inventar
 Repertiraj
 Trči
-Glsovni Čet
+Glasovni Čet
 Šunjanje
 Pomjeranje Napred
 Pomjeranje Nazad
@@ -18,11 +18,11 @@ Uključi Svjetlo
 Alt. Glasovni Čet
 Noclip
 Komandna Konzola
-Taster za Pritsupnu Kar.
+Taster za Pristupnu Kar.
 Pregledaj Pušku
 Pripremi Revolver
 Baci Stvar
-Glavana Puška Taster
+Glavna Puška Taster
 Druga Puška Taster
 Taster za medicinu
 Sakrij HUD

@@ -9,7 +9,7 @@ Meine Auswahl merken
 Löschen
 OK
 Mehr Informationen
-SCP-939 verwendet eine Mechanik, wobei die letzten wenigen Sekunden deines Sprachchats temporär aufgenommen werden. Dies kann durch SCP-939 wieder abgespielt werden, um Ziele anzulocken.\nDie Aufnahmen werden automatisch gelöscht, wenn du den Server verlässt, SCP-939 stirbt, oder die Runde endet. Wenn du dieses Feature ausschaltest, werden alle deine existierenden Aufnahmen gelöscht.
+SCP-939 verwendet eine Mechanik, bei der die letzten wenigen Sekunden deines Sprachchats temporär aufgenommen werden. Dies kann durch SCP-939 wieder abgespielt werden, um Ziele anzulocken.\nDie Aufnahmen werden automatisch gelöscht, wenn du den Server verlässt, SCP-939 stirbt, oder die Runde endet. Wenn du dieses Feature ausschaltest, werden alle deine existierenden Aufnahmen gelöscht.
 Die Wolke kann an dieser Stelle nicht eingesetzt werden.
 Die minimale Wolken-Größe wurde nicht erreicht. Halte die Taste länger gedrückt.
 SCP-939 ist blind und sieht durch Schall. Es nutzt Fehler aus, indem es mit lautlosen Schritten und beängstigender Geschwindigkeit Hinterhalte vorbereitet und zum Töten aus dem Nichts auftaucht.

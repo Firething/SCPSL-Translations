@@ -1,4 +1,4 @@
-<size=80>BILI STE IZBAČENI</size>\nServer je bio forsiran da prekine vesu.
+<size=80>BILI STE IZBAČENI</size>\nServer je bio forsiran da prekine vezu.
 <size=80>VEZA PREKINUTA</size>\nSpecificirani server nije dostupan.
 <size=80>VEZA PREKINUTA</size>\nSpecificirani ID konekcije nije dostupan.
 <size=80>VEZA PREKINUTA</size>\nSpecificirani kanal nije dostupan.

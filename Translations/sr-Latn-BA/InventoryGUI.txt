@@ -8,7 +8,7 @@ Dužina
 Ispusti:
 Efikasnost Šljema
 Efikasnost Pancira
-Koišćenje Stamine
+Koiršćenje Stamine
 Brzina Pomjeranja
 Ograničenje za stvari:
 Ograničenje za municiju:

@@ -21,8 +21,8 @@ PIXEL LICHT QUELLEN
 Schatten
 Schatten
 ERSTELLE SPIEL
-Das Ändern dieser Einstellung wirkt sich nicht auf die Spielperformance aus. Standard Einstellungen sind empfohlen.
-Rendere Licht:\nWenn aus - lässt das Spiel schlechter aussehen. Es ist empfohlen diese Einstellung nur zu nutzen, wenn du ein schlechtes PC-Setup (low-end) besitzt.
+Das Ändern dieser Einstellung wirkt sich nicht auf die Spielperformance aus. Standardeinstellungen sind empfohlen.
+Rendere Licht:\nWenn aus - lässt das Spiel schlechter aussehen. Es ist empfohlen, diese Einstellung nur zu nutzen, wenn du ein schlechtes PC-Setup (low-end) besitzt.
 V-SYNC
 VERBINDE
 QUALITÄTSEINSTELLUNGEN
@@ -43,37 +43,37 @@ OKAY
 SPIEL FINDEN
 2. Waffen nutzen
 Wir nutzen Discord als Forum. Keine Installation nötig.\n(klick auf das Logo, um beizutreten)
-Normal wird der Server im lokalem Netzwerk aufgesetzt.\nSpieler brauchen deine <color=#ffff00>offene IP-Adresse und den Port (7777 bis 7782, Port forwarding nötig)</color> um beitreten zu können.\nWenn du einen öffentlichen Server aufsetzen willst, führe LocalAdmin.exe aus und folge den Anweisungen.\nWenn du Fragen hast, frage unseren Tech-Support. (link im Hauptmenü)
+Normalerweise wird der Server im lokalem Netzwerk aufgesetzt.\nSpieler brauchen deine <color=#ffff00>offene IP-Adresse und den Port (7777 bis 7782, Port forwarding nötig)</color> um beitreten zu können.\nWenn du einen öffentlichen Server aufsetzen willst, führe LocalAdmin.exe aus und folge den Anweisungen.\nWenn du Fragen hast, frage unseren Tech-Support. (Link im Hauptmenü)
 1. Die Grundlagen
 Das Spiel befindet sich immer noch in der öffentlichen Beta.\nEs können Fehler auftreten.\nDer jetzige Zustand reflektiert nicht das finale Spiel.
 4. (mehr Tutorials folgen)
 DIREKT VERBINDEN
 TECH-SUPPORT / FORUM
 Allgemeine Spiellautstärke
-Gib die IP-Adresse oder Domain des Servers ein.
+Gib die IP-Adresse oder Domäne des Servers ein.
 DATEN WERDEN HERUNTERGELADEN
 KEINE SERVER VERFÜGBAR
 DRÜCKE ESC ZUM SCHLIESSEN / ABBRECHEN
 TASTENBELEGUNG
 MAX. SICHTBARES BLUT
 FPS Limit
-FPS Limit funktioniert nicht wenn V-Sync an ist!
+FPS Limit funktioniert nicht, wenn V-Sync an ist!
 Zurücksetzen
-Wir nutzen die Steam Diskussionen als Forum. (Klicke auf das Logo, um das Forum aufzurufen)
+Wir nutzen die Steam-Diskussionen als Forum. (Klicke auf das Logo, um das Forum aufzurufen)
 AUDIO EINSTELLUNGEN
 ALLG.-LAUTSTÄRKE
 HAUPTMENÜ MUSIK
 SPRACHCHAT
 SOUNDEFFEKTE
-GAMEPLAY OPTIONEN
+GAMEPLAY-OPTIONEN
 INTRO SCHNELL AUSBLENDEN
-Das Klassen Intro wird bei Rundenstart schneller ausgeblendet.
+Das Klassen-Intro wird bei Rundenstart schneller ausgeblendet.
 SCP-079 ANSICHT UMSCHALTEN
 Der Kameramodus wird durch einmaliges Betätigen umgeschaltet.
 SCP-079 NACHBEARBEITUNG
-Wenn ausgeschaltet, werden Kamera Effekte stark reduziert.
-KAMERA WACKELN
-Schaltet das Wackeln der first-person Kamera an während sich der Spieler bewegt.
+Wenn ausgeschaltet, werden Kamera-Effekte stark reduziert.
+KAMERA-WACKELN
+Schaltet das Wackeln der first-person Kamera an, während sich der Spieler bewegt.
 SPRINTEN UMSCHALTEN
 Sprinten wird ein/ausgeschaltet, anstatt die Taste gedrückt zu halten.
 SEPARATER HP-BALKEN
@@ -84,18 +84,18 @@ Wenn eingeschaltet, wird dein Status auf Discord/Steam angezeigt.
 ZEIGE HP-PUNKTE AN
 Zeigt die exakte Anzahl an HP-Punkten an, anstelle von Prozent.
 ÖFFENTLICHE LOBBY
-Wenn eingeschaltet, können deine Steam Freunde dir ohne Erlaubnis beitreten.
+Wenn eingeschaltet, können deine Steam-Freunde dir ohne Erlaubnis beitreten.
 IP VERBERGEN
-Wenn eingeschaltet, werden keine IPs in der Client Konsole angezeigt.
+Wenn eingeschaltet, werden keine IPs in der Client-Konsole angezeigt.
 AUFHEBEN UMSCHALTEN
 Das Aufheben von Gegenständen erfordert kein Halten der Taste; Drücke erneut, um abzubrechen.
-Applies soft shadows to corners and tight areas to give models more depth.
+Wendet weiche Schatten auf Ecken und enge Bereiche an, um Modellen mehr Tiefe zu verleihen.
 Gibt der Umgebung mehr Tiefe durch hohe Performanceeinbußen.
-Gibt Licht mehr Tiefe durch hinzufügen eines leuchtens, basierend auf der Lichtintensität.
-Umschalten um Untertitel für CASSIE Durchsagen zu sehen.
-Lässt die Taskleiste blinken wenn das Spiel nicht im Vordergrund ausgeführt wird.
+Gibt Licht mehr Tiefe durch hinzufügen eines Leuchtens, basierend auf der Lichtintensität.
+Einschalten, um Untertitel für CASSIE-Durchsagen zu sehen.
+Lässt die Taskleiste blinken, wenn das Spiel nicht im Vordergrund ausgeführt wird.
 Glättet Linien und entfernt visuelle Verzerrungen.
-Synchronisiert die FPS mit deiner Monitorbildwiederholrate um Bildverzerrung zu entfernen.
-Projeziert Texturen wie Schusslöcher oder Blutflecken.
+Synchronisiert die FPS mit deiner Monitorbildwiederholrate, um Bildverzerrung zu entfernen.
+Projiziert Texturen wie Schusslöcher oder Blutflecken.
 Dunkelmodus umschalten
 Einige helle Effekte werden durch dunkle Versionen ersetzt.

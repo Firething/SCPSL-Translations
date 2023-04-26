@@ -1,12 +1,12 @@
 Northwood Glavni Izvršni Direktor
 Northwood Glavni Informacioni Direktor
-Northwood Glavni Direktor Opercaija
+Northwood Glavni Direktor Operacija
 Northwood Direktor Zajednice
 Northwood Discord Menadžer
 Northwood Izvršni Asistent
 Northwood Menadžer Povratnih Informacija
 Northwood Ljudski Resursi
-Northwood Direktro Ljudskih Resursa
+Northwood Direktor Ljudskih Resursa
 Northwood Marketing Platform Menadžer
 Northwood Zaposleni
 Northwood Steam Menadžer
@@ -33,14 +33,14 @@ SCP:SL Menadžer za Osiguravanje Kvaliteta
 SCP:SL Dizanjer Zvuka
 SCP:SL Direktor Igre
 SCP:SL Menadžer Zvaničnih Servera
-Northwood Speicjalista Verifikacije
-SCP:SL Anti-Cheat Develpoer
-SCP:SL Tester Osiguravanje Kvlatiteta
+Northwood Specijalista Verifikacije
+SCP:SL Anti-Cheat Developer
+SCP:SL Tester Osiguravanje Kvaliteta
 SCP:SL Nadzornik Osiguravanje Kvaliteta
 SCP:SL Twitch Pretplatnik
 SCP:SL Menadžer Zvuka
 Northwood Kordinator Povratih Informacija
-Northwood Nadzornik Verifijakicje
+Northwood Nadzornik Verifikacije
 SCP:SL Nadzornik Zvaničnih Servera
 Northwood Nadzornik Povratnih Informaicja
 Northwood Menadžer Verifikacije
@@ -57,5 +57,5 @@ SCP:SL Pomagač Direktora Igre
 Northwood Nadzornik Tehničke Podrške
 Northwood Menadžer Tehničke Podrške
 Northwood Menadžer Sistemski Administrator
-Northwood Dizajner Priče  
+Northwood Dizajner Priče
 Northwood Nadzornik Platforme Marketinga
