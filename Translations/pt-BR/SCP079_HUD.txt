@@ -6,7 +6,7 @@ SEM CÂMERA
 IR PARA: [camera] ([cost])
 ENERGIA AUXILIAR INSUFICIENTE
 ETA: [time] segundos
-NÍVEL MAIOR REQUIRIDO
+NÍVEL MAIOR REQUERIDO
 CÂMERA INVÁLIDA
 ACESSO DE PORTA NEGADO
 ABRIR PORTA ([cost])
@@ -36,11 +36,11 @@ LIMITE DE INDICAÇÕES ATINGIDO
 TROCA DE CÂMERA FALHADA
 SINAL PERDIDO
 RECONECTANDO (ETA: [time]s)
-DISPARAR PORTÃO TESLA ([cost])
+DISPARAR PORTÃO DE TESLA ([cost])
 ATIVAÇÃO DE PORTÃO DE TESLA EM RECARGA
 $Nível de acesso [tier]$ - DESBLOQUEADO
 $PODER AUXILIAR$ limite aumentado para $[limit]$.
-$BLECAUTE$ disponível - pressione $[key]$ para desativar as luzes das salas,
+$BLECAUTE$ disponível - pressione $[key]$ para desativar as luzes das salas.
 $BLECAUTE$ capacidade aumentou para $[number]$ salas.
 $CONFINAMENTO$ disponível - pressione $[key]$ para temporariamente trancar todas as portas em uma sala.
 +[amount] EXP - Comando de Administrador
@@ -56,7 +56,7 @@ $CONFINAMENTO$ disponível - pressione $[key]$ para temporariamente trancar toda
 +[amount] EXP - Preveniu uso da Micro H.I.D.
 FEED DE CÂMERA ON-LINE
 BLECAUTE DE ZONA ([cost])
-$BLECAUTE DE ZONA$ disponível - next to zone labels on the $Facility Map$.
+$BLECAUTE DE ZONA$ disponível - ao lado das designações de zona no $Mapa da Instalação$.
 BLECAUTE DE ZONA EM RECARGA
 BLECAUTE JÁ ATIVO
 BLECAUTE INDISPONÍVEL PARA ESTA ZONA
@@ -88,7 +88,7 @@ Tentando novamente em [time] segundos...
 Resultado do Sensor: $[role]$ detectado em ‘$[camera_name]$’ ([zone]).
 PRÓXIMA VERIFICAÇÃO: [time] s
 Escaneando...
-SEQUÊNCIA DE VERIFICAÇÃO SUSPENDIDA
+SEQUÊNCIA DE VERIFICAÇÃO SUSPENSA
 SELECIONE CLASSES PARA DETECTAR
 O Sensor de Brecha detecta os alvos restantes que permanecem em uma mesma área por um longo período de tempo.
 Selecione pelo menos um filtro para continuar!
