@@ -7,16 +7,16 @@ Especialista NTF
 SCP-049
 Cientista
 SCP-079
-Conscrito Insurgente do Caos
+Conscrito Insurgente
 SCP-096
 SCP-049-2
 Sargento NTF
 Capitão NTF
 Recruta NTF
 Tutorial
-Guarda da Instalação
+Guarda
 SCP-939
-Classe Personalizada
+Personalizado
 Fuzileiro Insurgente
 Repressor Insurgente
 Saqueador Insurgente
