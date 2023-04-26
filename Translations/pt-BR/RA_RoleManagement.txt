@@ -17,8 +17,8 @@ Tutorial
 Guarda da Instalação
 SCP-939
 Classe Personalizada
-Fuzileiro Insurgente do Caos
-Repressor Insurgente do Caos
-Saqueador Insurgente do Caos
+Fuzileiro Insurgente
+Repressor Insurgente
+Saqueador Insurgente
 Supervisão
 Cineasta
