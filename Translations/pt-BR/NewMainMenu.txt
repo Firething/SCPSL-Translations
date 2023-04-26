@@ -86,7 +86,7 @@ COMPRAR SERVIDOR
 CANCELAR
 Segundo(s)
 Por jogar o nosso jogo!
-Piscar Hotbar ao Nascer
+Piscar Taskbar ao Nascer
 Oclusão de Ambiente
 Luzes Volumétricas
 Bloom
