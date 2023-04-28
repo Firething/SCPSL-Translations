@@ -3,10 +3,10 @@ VITÓRIA DOS SCPs
 VITÓRIA DA FUNDAÇÃO
 VITÓRIA DA INSURGÊNCIA
 EMPATE
-Os indivíduos fugitivos invadiram a instalação. A resposta de emergência foi codificada.
+Os sujeitos foragidos dominaram a instalação. A resposta de emergência foi codificada.
 Todas as ameaças à segurança foram neutralizadas. Sítio-02 está seguro novamente.
 A presença da Fundação foi exterminada. Agentes aguardando novas ordens.
-Sítio-02 está sob certo controle, todavia por um preço. O vencedor é indeterminado.
+Sítio-02 está sob certo controle, mas tudo tem seu preço. O vencedor é indeterminado.
 [summary_d_escaped] Classe-D(s) escaparam
 [summary_s_escaped] Cientista(s) sobreviveram
 A detonação da Ogiva Alfa acabou com [summary_warhead_kills] seres.
