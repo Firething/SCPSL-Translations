@@ -21,7 +21,7 @@ Vídeo
 Controles
 Jogabilidade
 Outros
-Modo de Janela
+Modo da Janela
 Tela Cheia Exclusiva
 Janela Sem Bordas
 Janela Maximizada
@@ -48,7 +48,7 @@ Desaparição Veloz da Intro
 Balanço da Cabeça
 Correr Alternado
 Exibir HP Exato
-Presença na Comunidade
+Status no Discord
 Lobby Público
 Pesquisar Alternado
 SCP-079 - Modo Alternativo
@@ -73,7 +73,7 @@ Conectando-se aos servidores centrais...
 <color=red>Falha na autenticação do Discord (Verifique o console para obter detalhes)</color>
 Desativado
 Segundo(s)
-Tempo de Limpeza do Ragdoll
+Intervalo p/ Limpeza dos Corpos
 Mostrar Perfil da Steam
 Permite que jogadores vejam o seu perfil da Steam clicando no ícone na lista de jogadores.
 Do Not Track (DNT)
