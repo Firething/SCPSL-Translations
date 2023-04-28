@@ -17,7 +17,7 @@ Ataque Cardíaco:Você estende sua mão enluvada para tocar o coração daqueles
 Sentido Aguçado do Doutor:Você muda todo o seu foco para uma alma contaminada. Você se move mais rápido, determinado a livrá-los da Pestilência. Você é capaz de medir a distância de uma vítima usando o cheiro fétido da doença.
 O Chamado do Doutor:Você sinaliza sua localização para sua horda de zumbis. Conforme eles ficam perto de você, seus corpos endurecem para tolerar mais danos. Afinal, um excelente doutor sempre examina seus pacientes.
 Sem Desperdício & Escassez:Seus instintos médicos não carecem de eficiência; você pode reviver o curado repetidamente para proporcionar-te mais conhecimento. Não é todo dia que os mortos ressuscitam duas vezes.
-Sede de Sangue Lobotomizada:Sua mente foi removida à força, restando a você apenas a violência. Você se vê perseguindo humanos cada vez mais rápido enquanto os procura …
+Sede de Sangue Lobotomizada:Sua consciência foi removida à força, restando a você apenas a violência. Você se vê perseguindo humanos cada vez mais rápido enquanto os procura …
 Voracidade:A cura não é totalmente desvantajosa. Você pode regenerar sua carne usando a massa corporal de qualquer cadáver próximo. No entanto, não há compartilhamento, portanto, certifique-se de ser o primeiro a chegar ao banquete.
 Reviver
 Segure [key]
