@@ -32,7 +32,7 @@
 <size=80>DESCONECTADO</size>\nVocê foi banido desse servidor.\nMotivo: [reason]
 <size=80>DESCONECTADO</size>\nVocê foi banido desse servidor.\nO banimento expira em: [date] [time]\nMotivo: [reason]
 <size=80>ESPERE UM MOMENTO</size>\nProcessando a verificação da segurança do servidor...
-<size=80>DESCONECTADO</size>\nFalha ao processar a verificação de segurança do servidor.
+<size=80>DESCONECTADO</size>\nFalha ao processar a verificação da segurança do servidor.
 <size=80>DESCONECTADO</size>\nProcessamento de verificação da segurança do servidor foi muito lento.\nPor favor, tente novamente ou contate um administrador do servidor.
 <size=80>ERRO DE AUTENTICAÇÃO</size>\nMensagem do Servidor Central: [message].
 <size=80>DESCONECTADO</size>\nServidor está desligando.
