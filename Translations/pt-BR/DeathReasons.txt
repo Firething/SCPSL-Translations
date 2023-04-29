@@ -1,4 +1,4 @@
-É o corpo de <b>[user]</b> - eram [class]!\n\nCausa da morte: [cause]
+É o corpo de <b>[user]</b> - era um [class]!\n\nCausa da morte: [cause]
 Recontido.
 Vaporizado pela Ogiva Alfa.
 Cessação repentina dos sinais vitais. Nenhum trauma aparente.
