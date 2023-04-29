@@ -6,12 +6,12 @@ Causa desconhecida da morte.
 Queimaduras elétricas graves.
 A privação de oxigênio resultou em morte por asfixia.
 Perda severa de sangue causada por feridas profundas.
-Você sangrou.
+Você sofreu uma hemorragia.
 Pernas e pés quebrados sugerem trauma fatal causado por uma queda.
-Você caiu.
+Você afligiu-se fatalmente com a queda.
 Apodreceu na Dimensão de Bolso.
 Derretido por uma substância altamente corrosiva.
-Pele amarela doentia e cheiro rançoso sugerem morte por veneno.
+A pele amarela enferma e o cheiro rançoso sugerem morte por veneno.
 O veneno acabou com você.
 A pele pálida e o vazamento de sangue da boca sugerem sangramento interno causado pela ingestão de substâncias.
 SCP-207 acabou com você.
