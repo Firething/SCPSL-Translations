@@ -2,20 +2,20 @@ Ampl. da Mira
 ---
 Dano
 Penetração
-Taxa de disparos
+Taxa de Disparo
 Coice
-Coice mirando
-Precisão das balas
-Precisão sem mirar
-Precisão mirando
-Velocidade para equipar
-Barulho do tiro
-Capacidade do pente
-Tempo para equipar
-Tempo para recarregar
+Coice Mirando
+Precisão das Balas
+Precisão Sem Mirar
+Precisão Mirando
+Tempo para Equipar
+Barulho do Tiro
+Capacidade do Pente
+Tempo para Equipar
+Tempo para Recarregar
 ---
-Velocidade para mirar
-Propagação das balas
-Consistência do padrão
-Número de projéteis
-Velocidade de recarregamento
+Velocidade para Mirar
+Propagação das Balas
+Consistência do Padrão
+Número de Projéteis
+Velocidade de Recarregamento
