@@ -2,7 +2,7 @@ Você pode desarmar um jogador ao interagir com ele (pressionando E) enquanto se
 Há 4 zonas principais dentro da Instalação: Contenção Leve, Contenção Pesada, Entrada e Superfície.
 Os Cientistas e Classe-Ds devem chegar à Superfície para escapar.
 Os Guardas da Instalação são fracos sozinhos, mas são fortes em grupo. Fiquem juntos!
-Sua estâmina é um recurso precioso, reserve um pouco para emergências!
+Sua estâmina é um recurso precioso, economize um pouco para emergências!
 A Zona de Entrada tem dois portões que dão acesso à superfície. Você precisará de um cartão de acesso para abri-los.
 Usar um elevador é uma maneira rápida e fácil de escapar da maioria dos SCPs.
 Classe-Ds que escaparam se juntam à Insurgência do Caos, enquanto Cientistas que escaparam entram para MTF.
@@ -62,7 +62,7 @@ SCP-106 pode atravessar portas e janelas de vidro.
 SCP-049-2 é vulnerável a tiros na cabeça.
 Enquanto estiver usando Perseguição, SCP-106 pode ver humanos em um raio curto ao seu redor.
 SCP-106 pode abrir um mapa de salas próximas para se teletransportar, vinculado ao ‘TAB’ por padrão.
-As habilidades do SCP-106 dependem de um recurso conhecido como ‘Vigor’, que é drenado à cada habilidade que ele usa.
+As habilidades do SCP-106 dependem de um recurso conhecido como ‘Vigor’, que é drenado a cada habilidade que ele usa.
 SCP-106 é mais vulnerável imediatamente após emergir do solo.
 SCP-096 é mais vulnerável quando começa a se acalmar.
 SCP-096 pode disparar adiante enquanto enfurecido - quebrando portas e matando alvos.
