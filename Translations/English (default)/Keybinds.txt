@@ -36,3 +36,4 @@ Release All Locks
 Blackout
 Lockdown
 Ping
+Breach Scanner
