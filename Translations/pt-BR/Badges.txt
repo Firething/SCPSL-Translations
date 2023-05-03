@@ -54,8 +54,8 @@ Dublador do SCP:SL
 Investidor da Fundação do SCP:SL
 Diretor de Estúdio da Northwood
 Diretor de Jogo Assistente do SCP:SL
-Suporte Técnico Supervisor da Northwood 
-Suporte Técnico Gerente da Northwood 
+Supervisor de Suporte Técnico da Northwood 
+Gerente de Suporte Técnico da Northwood 
 Chefe de Administração de Sistema da Northwood 
 Designer Narrativo do SCP:SL
 Supervisor da Plataforma de Marketing da Northwood
