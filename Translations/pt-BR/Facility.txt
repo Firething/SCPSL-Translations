@@ -16,7 +16,7 @@ INVENTÁRIO LOTADO
 SENSIBILIDADE
 HACKEANDO
 PEGANDO...
-Aumentar o brilho <b>piora significamente a experiência </b>de jogo.\nTente deixar esse valor o mais baixo possivel.\n<b>É recomendado deixar no valor padrão.</b>
+Aumentar o brilho <b>piora significativamente a experiência </b>de jogo.\nTente deixar esse valor o mais baixo possível.\n<b>É recomendado deixar no valor padrão.</b>
 [1] ABRIR/FECHAR PORTA\n[2] TRANCAR PORTA*\n\n*Fechar a porta usa a habilidade especial.
 PORTA FOI BLOQUEADA PELO SCP-079.
 Modo de Tela Cheia
