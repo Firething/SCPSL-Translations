@@ -42,3 +42,5 @@ Ambient Occlusion
 Bloom Quality
 Disables physics for ragdolls (dead bodies) after a specified time to reduce CPU usage.
 Aspect ratio of your current resolution is not supported!\nSome interface elements may not appear correct.
+Bullet Holes
+Blood Decals
