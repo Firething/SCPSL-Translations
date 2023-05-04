@@ -2,7 +2,7 @@ Configs. Mouse
 Sensibilidade
 Redução da Sens. ao Mirar
 Entrada Bruta
-Inverter Axis-Y
+Inverter Eixo-Y
 Ao mirar, a sensibilidade do mouse é dividida pela quantidade de ampliação da luneta da arma (scope). Os alvos sempre parecerão se mover na mesma distância na tela em relação ao movimento do seu mouse. Você pode aumentar ou diminuir a intensidade da redução ajustando esta configuração.
 Segurar
 Alternar
