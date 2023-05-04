@@ -36,3 +36,4 @@ Liberar Todos Bloqueios
 Blecaute
 Confinamento
 Indicação
+Sensor de Brecha
