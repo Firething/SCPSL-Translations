@@ -42,3 +42,5 @@ Oclusão de Ambiente
 Qualidade do Bloom
 Desativa a física para 'ragdolls' (corpos mortos) depois de um tempo específico para reduzir o uso da CPU.
 A proporção da sua resolução atual não é suportada!\nAlguns elementos da interface podem não aparecer corretamente.
+Buracos de Bala
+Decalques de Sangue
