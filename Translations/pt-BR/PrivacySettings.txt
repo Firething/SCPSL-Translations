@@ -1,0 +1,16 @@
+Rastr. de Usuários no Server-side
+Aceitar
+Rejeitar (DNT)
+Se rejeitado, proíbe os servidores verificados de usar seus dados (endereço IP, ID do usuário, etc) para fins não relacionados à segurança do servidor. Alguns recursos específicos do servidor (como classificações, sistemas de nivelamento e similares) não funcionarão corretamente.
+Rich Presence
+Permite as plataformas (Steam e Discord) a exibir mais informações sobre seu status atual no jogo.
+Lobby da Steam
+Os lobbies públicos permitem que outros usuários entrem no servidor por meio do seu perfil Steam.
+Configs. de Privacidade do Bate-Papo por Voz
+Perfil na Lista
+Permite que os jogadores visualizem seu perfil do Steam clicando em um ícone na lista de jogadores do jogo.
+Exibido
+Escondido
+Privado
+Público
+As alterações ocorrerão na próxima vez que você se conectar a um servidor (ou nos reínicios da partida)
