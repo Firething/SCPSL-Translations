@@ -44,7 +44,7 @@ Supervisor de Verificação da Northwood
 Supervisor de Servidores Oficiais do SCP:SL
 Supervisor de Feedback da Northwood 
 Gerente de Verificação da Northwood 
-Gerencte de Bot da Northwood 
+Gerente de Bot da Northwood 
 Gerente de Traduções da Northwood 
 Gerente de Design de Jogo do SCP:SL
 Animador do SCP:SL
