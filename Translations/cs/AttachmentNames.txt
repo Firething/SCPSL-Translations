@@ -36,9 +36,11 @@ Nízkokapacitní zásobník JHP~Nízkokapacitní zásobník, který obsahuje st�
 Čtyřranný válec~vydrží méně nábojů, ale dokáže způsobit větší poškození obrněným nepřátelům.
 Šestiranný válec~Klasický šestiranný válec.
 Válec s 8 náboji ~ pojme více nábojů, ale těžší stisk spouště vyžaduje více času k provedení přesných výstřelů.
-Carbine Receiver~Regular carbine upper receiver that is considered a great compromise between firepower and mobility.
-Rifle Receiver~Full-size upper receiver improves firepower and accuracy, but a heavier gas system reduces the fire rate.
+Karabinový přijímač~Běžná karabina, která je považováná za skvělý kompromis mezi palebnou silou a pohyblivostí.
+Puškový přijímač~Horní přijímač plné velikosti zlepšuje palebnou sílu a přesnost, ale těžší plynový systém snižuje rychlost střelby.
 Krátká hlaveň~Zkrácená verze standardní hlavně, která se používá pro zvýšení rychlosti tasení a pohyblivosti.
 Choke ~ Zvyšuje celkový poloměr rozptylu, ale zlepšuje konzistenci vzoru.
 Prodloužená hlaveň~Mírně snižuje poloměr rozptylu, ale zvyšuje celkovou hmotnost a délku zbraně.
 Bez pažby~Krátké konfigurace se vyznačují vysokou pohyblivostí, ale odstranění pažby z pušky znemožňuje bezpečné míření z mířidla.
+Systém Single-Shot~Standardní systém. Jedno stisknutí spouště vede k jednomu výstřelu.
+Systém Double-Shot~Upravený spoušťový mechanismus, který ovládá obě spoušťové páky jediným tahem.

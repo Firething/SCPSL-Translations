@@ -88,4 +88,14 @@ Pokud je povoleno, mohou se k vám vaši přátelé na Steamu připojit bez povo
 SKRÝT IP
 Je-li povoleno, nezobrazí se žádná IP adresa v klientské konzoli.
 STÁLÝ REŽÍM ZVEDNUTÍ PŘEDMĚTŮ
-Zvednutí předmětu nebude vyžadovat podržení klávesy; opětovným stisknutím přerušíte.
+Zvednutí předmětu nebude vyžadovat podržení klávesy; opětovným stisknutím přerušíte
+Aplikuje lehké stíny na rohy a těsné oblasti, aby modely získaly větší hloubku.
+Poskytuje prostředí větší hloubku, za cenu většího výkonu
+Dodává osvětlení větší hloubku tím, že aplikuje záři na základě intenzity světla.
+Zapnutím zobrazíte titulky pro oznámení Cassie.
+Bliká na hlavním panelu, když se spustíte, když hra není otevřena.
+Vyhlazuje linky a odstraňuje vizuální zkreslení.
+Synchronizuje snímkovou frekvenci ve hře s obnovovací frekvencí vašeho monitoru, aby se zabránilo trhání obrazovky.
+Promítané textury, jako jsou díry po kulkách nebo stříkající krev.
+Zapnout tmavý režim
+Zapnutím změníte některé světlé prvky na jejich verze s tmavým motivem.

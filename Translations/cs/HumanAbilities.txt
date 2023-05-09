@@ -1,0 +1,7 @@
+Sprint: Běžíš rychleji, ale dáš tím ostatním najevo kde jsi.
+Plížení: Tvoje kroky jsou tiché, za cenu tvojí rychlosti.
+Inventář: Otevřeš svůj inventář a vybereš věc, kterou chceš používat pomocí LMB, nebo ji zahoď pomocí RMB.
+Neozbrojen: Nemáš nic. Najdi něco. Cokoliv.
+Přístupová karta: Máš přístupovou kartu, není ta nejlepší, ale dobře ji využíj.
+Standardní vybavení: Jsi vybaven puškou, tabletem, granátem, rádiem, disarmerem a přístupovou kartou.
+Ozbrojen a nebezpečnej: Dostal jsi lehký kulomet, hackerský nástroj (přístupová karta) a lékárničku.

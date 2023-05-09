@@ -1,0 +1,22 @@
+Bonbóny
+Duhový Bonbón
+Je to tvrdý kus kamenného bonbónu, plné nejrůznějších příchutí.
+Poskytuje velké množství malých bonusů, včetně regenarace zdraví, povzbuzení a AHP.
+Žlutý Bonbón
+Ohromujicí vůně citronu tě trochu krčí.
+Umožňuje ti pohybovat se rychleji a sprintovat déle po krátkou dobu.
+Fialový Bonbón
+Má šťavnatou hroznovou vůni. Tvoje ústa začínají slinit.
+Poskytuje dočasnou odolnost vůči poškození a pomalu regeneruje zdraví.
+Červený Bonbón
+Místnost naplní silná vůně třešní. je to trochu... <i>moc</i> silné.
+Rychle obnovuje tvoje zdraví.
+Zelený Bonbón
+Z bonbónu vychází nepříjemný bylinný zápach.
+Poskytuje dlouhotrvající regeneraci zdraví a dočasnou imunitu vůči většině stavových efektů.
+Modrý Bonbón
+Voní jemně a sladce, něco jako marshmallow.
+Poskytuje dočasnou bariéru.
+Růžový Bonbón
+Jahodová vůně je tak jemná, jak vypadá.
+- T A J N E -

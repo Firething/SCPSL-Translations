@@ -38,3 +38,11 @@ Byl jsi chycen MTFkem.\nO jednu menší hrozbou v zařízení se dokázali posí
 Vzbouřenci Chaosu tě zajali jako vědce. Získali výhodu z informací, které jsi jim poskytli.
 KOLO ZAČNE ZA: <color=yellow>{0}</color>s
 KOLO ZAČNE ZA <color=#FF5050>PAUZA</color>
+ZAMĚŘENÍ SENS. REDUKCE
+Zmáčkni [key] pro zrušení hodu.
+ADS zapnutí
+Ztlumit Diváky
+Povolit redukci šumu (doporučeno)
+Automatický (Výchozí Systému)
+Mikrofon nebyl detekován!
+VSTUPNÍ ZAŘÍZENÍ

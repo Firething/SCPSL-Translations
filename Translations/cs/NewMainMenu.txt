@@ -90,3 +90,5 @@ Probliknutí Hlavního Panelu Při Spuštění
 Ambient Occlusion
 Volumetrická světla
 Bloom
+Zapnout titulky
+Provozní příručka

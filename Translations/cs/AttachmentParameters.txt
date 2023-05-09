@@ -8,12 +8,14 @@ Zpětný ráz při míření
 Přesnost střel
 Přesnost při střelbě bez míření
 Přesnost míření
-Rychlost zařízení zbraně
+Rychlost nasazení zbraně
 Hlasitost střelby
 Kapacita zásobníku
 Doba vybavení
-Doba dobití
+Doba nabití
 ---
 Rychlost míření
 Rozptyl kulek
 Konzistence vzoru
+Počet projektil
+Rychlost nabití

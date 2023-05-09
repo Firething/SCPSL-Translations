@@ -1,0 +1,18 @@
+Vlastní
+Předvolba #[index]
+ULOŽIT
+ODSTRANIT PŘÍLOHY
+Výchozí
+PŘEDVOLBY
+STANICE - <color=#c00>OFFLINE</color>
+<color=#ccc>SITE-02 BOD PŘIZPŮSOBENÍ ZBRANĚ</color> - POHOTOVOSTNÍ REŽIM AKTIVOVÁN\n<size=39>KLIKNI NA OBRAZOVKU PRO ATKTIVACI. <color=#ccc>JEN OPRÁVNĚNÉ OSOBY.</color></size>
+VÍTEJ, UŽIVATELI!
+STANICE SE ZAPÍNÁ
+STANICE - <color=#0c0>PŘIPRAVENÁ</color>
+<size=52><color=#ccc>SITE-02 BOD PŘIZPŮSOBENÍ ZBRANĚ</color> - PŘIPRAVENO</size>\n<size=42><color=#ccc>PROSÍM VYBAVTE SVOJI ZBRAŇ, ABY JSI MOHL UPRAVIT PŘÍLOHY.</color></size>
+VYPÍNANÍ
+STANICE SE VYPÍNÁ
+ZOBRAZIT SOUHRN
+ZAVŘÍT SOUHRN
+[Attachment] Přizpůsobení
+Zmáčkni [Key] k úpravě příloh.

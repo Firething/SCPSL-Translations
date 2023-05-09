@@ -1,0 +1,3 @@
+Byl jsi zatčen hráčem [player].
+správce
+Postupuj podle rozkazů nebo požádej spoluhráče o pomoc.

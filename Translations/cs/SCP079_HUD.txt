@@ -1,0 +1,94 @@
+ZVĚTŠENÍ [amount]x
+STUPEŇ PŘÍSTUPU [tier]
+EXP [current] / [next]
+MAXIMALNÍ ÚROVEŇ DOSAŽENA
+ŽÁDNÁ KAMERA
+JÍT DO: [camera] ([cost])
+NEDOSTATEK ENERGIE
+ETA: [time] sekund
+VYŠŠÍ TIER POTŘEBOVÁN
+NEPLATNÁ KAMERA
+PŘÍSTUP K DVEŘÍM ZAMÍTNUT
+OTEVŘÍT DVEŘE ([cost])
+ZAVŘÍT DVEŘE ([cost])
+ZAMKNOUT DVEŘE ([cost])
+ODEMKNOUT DVEŘE
+COOLDOWN NA ZAMKNUTÍ DVEŘÍ
+ENERGIE
+ÚTOČÍ NA TEBE!
+UVOLNIT VŠECHNY ZAMKNUTÉ DVEŘE ([num] total)
+OTEVŘÍT MAPU ZAŘÍZENÍ
+ZAVŘÍT
+LEHKÁ ZADRŽOVACÍ ZÓNA
+TĚŽKÁ ZADRŽOVACÍ ZÓNA
+VSTUPNÍ ZÓNA
+ZÓNA NA POVRCHU
+ZATMĚNÍ ([cost])
+ZATMĚNÍ NENÍ K DISPOZICI V TÉTO MÍSTNOSTI
+DOSAŽENO LIMITU SOUČASNÝCH VÝPADKŮ
+COOLDOWN NA ZATMĚNÍ MÍSTNOSTI
+PŘIVOLAT VÝTAH ([cost])
+IZOLACE ([cost])
+COOLDOWN NA IZOLACI
+ŽÁDNÉ DVEŘE K DISPOZICI PRO IZOLACI
+OZNAČIT LOKACI ([cost])
+DOSAŽÉNO LIMITU PRO OZNAČENÍ
+ZMĚNA KAMER SELHALA
+SIGNÁL ZTRACEN
+ZPĚTNÉ PŘIPOJENÍ (ETA: [time]s)
+SPUSTIT TESLA BRÁNU ([cost])
+COOLDOWN NA AKTIVACI TESLA BRÁNY
+$Přístupový Tier [tier]$ - ODEMČEN
+$ENERGIE$ limit energie zvýšen $[limit]$.
+$ZATMĚNÍ$ je teď dostupné - zmáčkni $[key]$ pro vypnutí světel v místnosti.
+$ZATMĚNÍ$ kapacita zvýšena $[number]$ místností.
+$IZOLACE$ je teď dostupné - zmáčkni $[key]$ na to aby jsi dočasně zamknul všechny dveře v místnosti.
++[amount] EXP - Příkaz Správce
++[amount] EXP - Pomoc při terminaci personálu třídy D
++[amount] EXP - Pomoc při terminaci Vědce
++[amount] EXP - Pomoc při terminaci Strážce
++[amount] EXP - Pomoc při terminaci Nine-Tailed Fox 
++[amount] EXP - Pomoc při terminaci Chaos Insurgency
++[amount] EXP - Pomoc při terminaci Člověka
++[amount] EXP - Svědek při terminaci ze strany tvého spoluhráče
++[amount] EXP - Pomoc při asistenci pronásledování spoluhráče
++[amount] EXP - Chránění spoluhráče/ů
++[amount] EXP - Zabráněné použití Micro H.I.D.
+KAMERA ONLINE
+ZATMĚNÍ CELÉ ZÓNY ([cost])
+$ZATMĚNÍ CELÉ ZÓNY$ je teď dostupné - vedle štítku zón na $Mapě zařízení$.
+COOLDOWN NA ZATMĚNÍ CELÉ ZÓNY
+ZATMĚNÍ JIŽ AKTIVNÍ
+PRO TUTO ZÓNU NENÍ DOSTUPNÉ ZATMĚNÍ
+CELKOVÉ ŽIVOTNÍ FORMY
+CÍLE
+SCP SUBJEKTŮ
+CIVILNÍ
+VÁLEČNÝ
+POUŽÍT REPRODUKTOR
+PŘÍSTUP DO VÝTAHU ZAMÍTNUT
+SCP-079 nemá žádné přímé bojové nebo pohybové schopnost. Místo toho, sleduješ a interaguješ se světem pomocí bezpečnostních kamer, které jsou v každé místnosti. Všechny dostupné schopnosti jsou napsané v pravém horním rohu tvého HUD.
+Prakticky Nezničitelný:V těžké zadržovací zóně jsou tři generátory. Jestli jsou všechny zapnuty, tak můžeš být zadržen ze své místnosti. Generátory mají cooldown sekvenci která může být narušena pomocí zmáčknuti tlačítka "ZRUŠIT", které je na generátoru.
+Neomezený Přístup:Můžeš manipulovat s mnoha systémi které jsou v zařízení aby jsi mohl asistovat dalším SCP. Na tvé pravé straně tvé obrazovky máš napsané jaké schopnosti jsou dostupné. Tyto schopnosti stojí energii na použití, která se ti regeneruje přes čas.
+Hluboké Učení:Asistování při terminacích nebo pomáhání ostatním SCP ti dá zkušenosti, které se ti zbírají pro novou úroveň. Každá nová úrověn ti dá víc energie a dá ti přístup k novým schopnostem.
+Sledování:Tím že jsi všude, ale přitom nikde ti dá jedinečnou perspektivu. Můžeš označovat lokace, lidi a objekty zájmu, což vám umožní asistovat při vraždách.
+$SKENER NARUŠENÍ$ je teď dostupné — zvol tým(y)/zón(y) v $Mapě zařízení$ na vyhledání zbývajicích přeživších.
+REGENERACE ENERGIE POZASTAVENA
+REGENERACE ENERGIE SNÍŽENA ([precentage])
+Zámek dveří je aktivní
+Reproduktor se používá
+Uzamčení probíhá
+SKENER NARUŠENÍ
+NÁVRAT NA MAPU
+Skener narušení - [cnt] zón(y)
+ZVOLENÉ ZÓNY: [cnt]
+VYBERTE ZÓNY PRO SKENOVÁNÍ
+Výsledek skenu: $Nebyly detekovány žádné stacionární cíle$.
+Další pokus za [time] sekund...
+Výsledek skenu: $[role]$ detekován v ‘$[camera_name]$’ ([zone]).
+DALŠÍ SKEN: [time] s
+Skenování...
+SKENOVACÍ SEKVENCE ZASTAVENA
+VYBERTE TÝMY K DETEKCI
+Skener narušení detekuje zbývající cíle, které se nachází ve stejné oblasti po delší dobu.
+Vyber si alespoň jeden filter na pokračování!

@@ -1,0 +1,8 @@
+COOLDOWN NA ÚTOKU
+Nedostupné na povrchu.
+Nedostupné když jedeš výtahem.
+Nezastavitelná bytost, která je schopna lehce proniknout jakýmikoliv dveřmi v zařízení.
+Chytit:Chytíš člověka v blízkosti a zachycuješ je do své poket dimenze — smrtelného vězení vedeno tvým pravidlem. Z radosti ulovené nové kořisti ti doplňuje Vigor.
+Stalk:Ponoříž se do země, kde se hýbeš rychle a neviditelně, regeneruješ a připravuješ se zautočit na tvojí oběť. Používá to Vigor, který se obnovuje pomalu když je Stalk neaktivní.
+Lovcův Atlas:Rychle se teleportuješ do blízké místnosti, ale stojí to hodně Vigoru. Takový to pohyb je pro tebe instinktem, procházel jsi tolika místnostmi tak dlouho jak máš.
+Blažená Agónie:Když stálkuješ, tak můžeš vidět jenom zraněné lidi. Čím větší je jejich agónie, tím víc je z větší dálky uvidíš. Uprchlíci z tvé poket dimenze jsou traumatizovaní, takhle jsou viditelní pro tebe odkudkoliv.

@@ -1,0 +1,46 @@
+Zmáčkni [key_attack] nebo [key_jump] k Výpadu.
+Poslechnout hlasy (jenom ty tohle slyšíš)
+-
+Odstranit hlas (drž)
+Hrát hlas (všichni tohle slyší)
+SCP-939 tě zabila a ukradla ti hlas!
+Pokud si nepřeješ aby tvůj hlas byl použit, můžeš si tuhle funkci vypnout.
+Zapamatovat moji volbu
+Smazat
+OK
+Více informací
+SCP-939 používá mechaniku kde posledních pár sekund tvého hlasu je dočasně nahravaný. Tohle může SCP-939 hrát aby nalákala svoje cíle.\nNahrávky jsou automaticky smazány potom co se odpojíš ze serveru, když SCP-939 umře nebo se kolo restartuje. Vypnutím této funkce vymaže všechny existující nahrávky z tvého hlasu.
+Mrak nemůže být položen v této pozici.
+Minimální šířka mraku nebyla dosažena. Drž spouštěcí klávesu déle.
+SCP-939 je slepá a vidí pouze pomocí zvuku. Využívá tak chyb co ostatní dělají, používá svoje tlumené kroky a strašidelnou rychlost pro nastavení přepadů a zabít svůj cíl.
+Drápy:Klikni aby jsi mohl máchat svými drápy v širokém oblouku před tebou, trhání masa a kostí z tvé vybrané oběti. Když se soustředíš, tvůj hlavní útok ti povolí k výpadu na tvoji kořist.
+Soustředit:Věnuj svoji energii svým smyslům, můžeš svoji kořist vidět z větší dálky a taky můžeš zjistit jaký typ kořisti to je, pomocí akcí co udělají.
+Amnestický Mrak:Naplň svoje dýchací cesty nebezpečným neurochemickým plynem, který můžeš projektovat v radiusu podle toho jak dlouho jsi ho nabíjel. Lidé co vdechnou tento plyn ztratí pojem o SCP-939 a nemůžou dělat určité akce. Buď ale na pozoru, když na tebe zaútočí nebo ty na ně, tak tě to odhalí na krátkou dobu.
+S mnoha hlasy:Lidi, které jsi zabil mají šanci ti dát jejich poslední slova, umožňuje ti to tak jim ukradnout hlas, který potom můžeš použít na zmatení ostatních. SCP-939 také může mimikovat nějaké základní zvuky, například napodobit lidské kroky.
+Ultracitlivá:SCP-939 je schopná vnímat blízké zdroje tepla, které je reprezentováno malým radiusem normálního vidění. Mimo tohle, musíš se spoléhat na zvuky aby jsi mohl najít nejbližší kořist. Čím víc hlasitý je zvuk, tím z větší dálky ho uslyšíš. Rozsah tvého vidění je ovlivněno úrovní tvojí staminy.
+-
+Položit mimický bod
+Přepsat polohu Mimického zdroje zvuku
+Odstranit mimický bod
+Udělat všechny zvuky vycházet z tvoji současné pozice
+Mimický bod nastaven!
+Mimický bod odstraněn!
+Mimický bod zničen. Jsi příliš daleko.
+Ukradené hlasy
+-
+Prostorové mimikry
+-
+(Cooldown: [time]s)
+-
+Předstírání
+Střelba
+Smíšený
+-
+-
+Role
+Klávesová zkratka  [key]
+Přehrát vybraný zvuk (Slyší to každý)
+Zastavit přehrávání
+Přetažením záznam ořízneš
+Přepnout oblíbené. Nahrávky označené jako oblíbené jsou svázány s klávesovou zkratkou.
+Přetažením reorganizujete nahrávky

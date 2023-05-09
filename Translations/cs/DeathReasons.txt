@@ -1,0 +1,33 @@
+Tohle je tělo <b>[user]</b>, třídy [class]!\n\nPříčina smrti: [cause]
+Znovu-uvězněn.
+Vypařen hlavicí Alpha.
+Náhlé zastavení života. Žádné viditelné trauma.
+Příčina smrti neznámá.
+Elektrický šok z velmi vysokého napětí.
+Nedostatek kyslíku vedl ke smrti asfyxie.
+Težká ztráta krve způsobená hlubokými ranami.
+Vykrvácel jsi.
+Rozdrcené nohy a chodidla způsobeny fatalním traumem z pádu.
+Spadl jsi.
+Uhnil jsi v Poket dimenzi.
+Byl rozežrán žíravinou.
+horobně žlutá kůže a žluklý zápach naznačují smrt jedem.
+Otrávení tě dokončilo.
+Bledá kůže a krev vytékající z úst naznačují vnitřní krvácení způsobené požitím látky.
+SCP-207 tě dokončilo.
+Neměl jsi si brát víc jak dva!
+Byl jsi usmažený Tesla Gatou.
+Šrapnely a těžké popáleniny způsobené vybůchem.
+Byl jsi zabit blízkou explozí.
+Masivní tržné rány a velká ztráta krve.
+Cervikalní zlomenina na lebce.
+Velké a hluboké stopy po kousnutí můžou být zpozorovány na těle.
+Na těle jsou tupá poranění a drobné škrábance. 
+[ammotype] střelné rány.
+Fatalní tupé trauma; tělo je těžce zmrzačené a rozdrcené.
+Známky vážného poranění obou stehenních kostí naznačují smrt oběhovým šokem.
+Byl jsi obětován pro uvěznění SCP-106.
+Automaticky zabit za střelbu do spojenců.
+Studená kůže a namrzlé prsty, které naznačují smrt podchlazením.
+Umrzl jsi k smrti.
+Na těle jsou viditelné hluboké tržné rány a škrábance.

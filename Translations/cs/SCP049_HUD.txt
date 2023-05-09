@@ -1,0 +1,23 @@
+Tahle duše už není s námi.
+Tohle tělo už expirovalo.
+Tahle duše byla oživena hodněkrát.
+Tahle duše už si nepřeje být oživena.
+Tohle tělo nemůže být oživeno.
+Tohle tělo už bylo pozřeno.
+Jenom lidské těla mohou být konzumována.
+COOLDOWN NA ÚTOKU
+Odmítl jsi další oživení od SCP-049!
+Zmáčkni [key] aby jsi odmítl další oživení.
+Žádné cíle nalezeny.
+Už dávno máš plné zdraví!
+Tohle tělo je právě konzumováno.
+Pomalý a křehký, SCP-049 se specializuje jako přepadový predátor, schopný rychle zvrátit průběh hry s hordami "vyléčeného" personálu.
+Rychlí a nebezpečný, SCP-049-2 jsou instance, které se rojí před svým pánem aby zasévaly paniku a chaos, vytváření nových těl aby se přidali k nim. 
+Srdeční záchvat:Natahuješ vlastní ruku v rukavici a dotkneš se srdcí těch, kteří trpí Morem, způsobit rychlé selhání jejich tělesných funkcí; Dává ti šanci aby jsi jim mohl podat svůj lék.
+Dobrý smysl doktora:Přesuneš svou plnou pozornost na poskvrněnou duši. Pohybuješ se rychleji, odhodlaně je zbavit Moru. Jsi schopný změřit vzdálenost oběti pomocí odporného aroma té nemoci.
+Volání doktora:Signalizuješ svoji lokaci tvému vyléčenému personálu. Když stojí poblíž tebe, jejich těla ztvrdnou na to aby mohli strpět větší poškození. Skvělí doktor vždy kontroluje svoje pacienty, přece.
+Neplýtvat, Nechtít:Tvoje medikální instinkty nejsou bez potřeby efektivity; můžeš oživovat už uzdravené a znovu získávat více informací. Není to každý den, že mrtví vstanou dvakrát.
+Lobotomizovaná krvežíznivost:Tvoje mysl byla násilně odstraněna, která ti zanechala jenom násilí. Zjistíš, že pronásleduješ lidi rychleji a rychleji, když je pronásleduješ …
+Žravost:Léčba není zcela bez výhod. Můžeš regenorovat své maso pomocí hmoty od blízkých mrtvol. Tady není žádné sdílení, takže se ujisti že jsi první na hostině.
+Oživit
+Drž [key]

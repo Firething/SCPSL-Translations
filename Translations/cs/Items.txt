@@ -35,3 +35,10 @@
 39~.44 Revolver
 40~Kalašnikov
 41~Brokovnice
+42~Sáček bonbónů~Sáček obsahující následující bonbóny:
+43~SCP-2176~Tvůj vlastní Ghostlight! Pozor, velmi křehké...
+44~SCP-244-A~Starobylá váza, mrazivá na dotek. Při umístění vytváří velký oblak ledové mlhy.
+45~SCP-244-B~Starobylá váza, mrazivá na dotek. Při umístění vytváří velký oblak ledové mlhy.
+46~SCP-1853~Zlepšuje dovednosti manipulace se zbraněmi.
+47~3-X Rozrušovač částic
+48~COM-45

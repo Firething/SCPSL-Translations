@@ -1,0 +1,63 @@
+Můžeš odzbrojit hráče tak, interakcí s nimi když držíš zbraň
+V zařízení jsou čtyři hlavní zóny: lehká zóna, těžká zóna, vstup a povrch.
+Vědci a personál Třídy-D se musí dostat na povrch, aby unikli.
+Vstupní zóna má dvě brány, které umožňují přístup na povrch. K jejich otevření budeš potřebovat klíčovou kartu.
+Použití výtahu je rychlý a snadný způsob, jak uniknout většině SCP.
+Uniklý personál Třídy-D se připojuje k Vzbouřencům Chaosu, zatímco uprchlí vědci se stávají MTF.
+Adrenalin lze použít k okamžitému osvěžení tvoji vytrvalosti a získání výhody v boji.
+Rádia mají čtyři nastavení rozsahu. Čím delší je dojezd, tím rychleji se baterie vybíjí.
+MTF and Vzbouřenci Chaosu dorazí na opačné konce povrchové zóny.
+Alfa hlavice zabije cokoli uvnitř zařízení, když vybuchne. Lze jej aktivovat ze zóny povrchu.
+Detonační sekvenci Alfa hlavice lze zrušit z její místnosti v Těžké zadržovací zóně.
+Místnost interkomu ve vstupní zóně lze použít k vysílání hlasové zprávy všem hráčům.
+Můžeš házet předměty (ve výchozím nastavení "T"). To lze použít k otevírání dveří s kartou na dálku nebo k rozbití skla.
+Lehká zadržovací zóna se po 15 minutách uzamkne; zabije každého, kdo zůstal uvnitř. Uteč, dokud můžeš!
+Maximalizujte svou výhodu úpravou příloh ke zbraním podle situace, ve které se nacházíš.
+Čím víc příloh zbraň má, tím je těžší. To ovlivňuje využití vytrvalosti a rychlost pohybu.
+Tlumiče nejen tlumí výstřely, ale také skrývají záblesky z hlavně.
+Delší a těžší zbraně jsou méně přesné, pokud se střílí za běhu.
+Nošení neprůstřelné vesty zvyšuje počet předmětů a munice, které můžeš nosit.
+Pancéřové náboje (AP) fungují nejlépe proti obrněným cílům.
+Hollow-point náboje (JHP) způsobují vyšší poškození neobrněným cílům, ale jsou slabší proti pancéřováným.
+Stisknutím a podržením tlačítka pro nabíjení vybiješ zbraň a přidáš její munici do svého inventáře.
+Zbraně Vzbouřenců Chaosu jsou silné, ale jejich munice se v zařízení nenachází. Ať se to počítá.
+Ke zničení dveří lze použít granáty.
+Granáty lze házet s menší silou pomocí pravého tlačítka myši.
+Micro H.I.D. může zabít většinu SCP velmi rychle, ale má omezené napájení. Používej to moudře!
+Micro H.I.D. vyžaduje asi 5 sekund nabíjení, než může vystřelit.
+Podržením pravého tlačítka myši zůstane Micro H.I.D. ve stavu připraveném k palbě; pomalu odčerpávající energii.
+Micro H.I.D. je při nabíjení velmi hlasitý. Ujisti se, že jej použiješ, dokud tvoje cíle nemohou utéct.
+Nabíjení Micro H.I.D. vydává zastrašující zvuk, který stačí k tomu, aby zničil plány tvojich nepřátel.
+Láhev SCP-207 nejen zvýší rychlost vašeho pohybu, ale částečně vám také obnoví zdraví.
+Lze vypít až čtyři láhve SCP-207, což umožňuje výrazné znásobení tvoji rychlosti.
+SCP-500 tě nejen vyléčí, ale odstraní většinu negativních efektů a následně zajistí regeneraci.
+Zatímco SCP-268 tě činí neviditelnými pro všechny lidi, SCP-079 a SCP-939 si tě stále mohou všimnout.
+SCP-268 tě nezachrání před SCP-096, pokud jsi se na něj podíval.
+SCP-018 je vysoce nepředvídatelné. Až bude odhozen, kryj se.
+SCP-018 lze použít k zablokování pronásledovatelů při poskakování v chodbě.
+SCP-914 může měnit všechny položky, včetně zbraní a nábojů.
+SCP-914 může dobíjet vysílačky a Micro H.I.D.
+SCP-079 začíná relativně slabě, ale postupem kola se stává silnějším.
+SCP-079 může zamknout dveře, vypnout světla a přebít tesla brány.
+Tesla brána, na kterou se dívá SCP-079, bude vždy vypadat jako aktivní.
+SCP-079 nemůže vypnout světla v místnosti s rozbitými dveřmi.
+SCP-079 je znovu zadrženo pomocí generátorů nalezených v Těžké Zadržovací zóně a posledního tlačítka v jeho ochranné komoře.
+Kamera používaná SCP-079 bude svítit modře. Nikdy nevíš, kdy se dívá.
+SCP-173 se může volně pohybovat v temných místnostech, i když se na něj díváš. Vem si baterku!
+SCP-173 může zabíjet tajně zezadu.
+SCP-173 dokáže vytvořit louži, která zpomalí lidi, kteří přes ni procházejí – vytvoření rychlého a účinného odmítnutí oblasti.
+SCP-106 je odolný vůči kulkám, ale ne výbušninám a elektřině.
+SCP-106 lze rychle znovu zadržet pomocí přerušovače stehenní kosti, který se nachází v jeho ochranné komoře.
+SCP-106 může procházet dveřmi a skleněnými okny.
+SCP-096 je nejslabší, když se právě začal uklidňovat.
+SCP-096 se může hodit dopředu – rozbíjet dveře a zabíjet cíle.
+SCP-096 při rozzuření zničí dveře a otevře zavřené brány.
+Kousnutí SCP-939 není ovlivněno brněním.
+SCP-939 působí amnézii na lidi, které kousne; zatemnění jejich zraku.
+SCP-939 může sprintovat donekonečna a při chůzi je zcela tichá.
+SCP-939 je při chůzi tichá, díky čemuž je dokonalým predátorem ze zálohy.
+Kroky SCP se liší od lidských. Poslouchej pozorně!
+SCP-049 může okamžitě zabít každého člověka, pokud se přiblíží.
+SCP-049 může oživit mrtvoly, pouze pokud jsou čerstvé.
+SCP-049-2 je zranitelný vůči střelám do hlavy.
+SCP-049-2 jsou dobrými skauty a jsou ve velkém počtu nebezpeční.

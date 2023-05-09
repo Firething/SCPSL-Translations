@@ -1,17 +1,17 @@
-Pomocná jednotka
-Zkušenosti
-Kamera
-Stiskni [KEY] pro prohlídnutí mapy
+ENERGIE
+ZKUŠENOSTI
+ZDROJ KAMER ONLINE
+ZMÁČKNI [KEY] K ZAPNUTI MAPY
 Získané zkušenosti:
-Spolupracuj
-Asistence terminace personálu třídy-D
-Asistence terminace Chaos
-Asistence terminace MTF
-Asistence terminace Vědce
-Asistence terminace SCPčka
-ZAMKNUTÉ DVEŘE: [LOCKED_NUM]<size=25>PRAVÉ TLAČÍTKO MYŠE K ODEMKNUTÍ VŠECH DVEŘÍ</size>
-Obecná interakce
-Byl jsi napaden!
-Na mapě byly zvýrazněny generátory!
+Kooperativní práce
+Asistence při terminaci personálu třídy-D
+Asistence při terminaci Vzbouřence Chaosu
+Asistence při terminaci MTF
+Asistence při terminaci Vědce
+Asistence při terminaci SCP
+ZAMKNUTÉ DVEŘE: [LOCKED_NUM]<size=25>PRAVÉ TLAČÍTKO MYŠI PRO ODEMKNUTÍ VŠECH</size>
+Obecné interakce
+Útočí na tebe!
+Generátory byly na mapě zvýrazněny
 NEBEZPEČÍ
-SCPčka{0}MTF & Strážných{1}Vědci{2}Personál třídy-D{3}Vzbouřenci chaosu{4}
+SCP{0}MTF & Strážci{1}Vědci{2}Personál třídy-D{3}Vzbouřenci Chaosu{4}

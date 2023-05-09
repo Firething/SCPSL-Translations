@@ -18,3 +18,21 @@ Zap/Vyp Svítilnu
 Hlas.K. Vysílačka
 Noclip
 Herní Konzole
+Klávesová zkratka pro kartu
+Prohlédnout
+Cock Revolver
+Zahodit položku
+Klávesová zkratka pro primární zbraň
+Klávesová zkratka pro sekundární zbraň
+Klávesová zkratka pro zdravotní itemy
+Skrýt GUI
+Zapnout Noclip Fog
+Klávesová zkratka pro granát
+Zastavit Menu
+Protokol ladění
+Režim volného pohledu
+Zamknout dveře
+Uvolnit všechny zámky
+Zatmění
+Izolace
+Ping

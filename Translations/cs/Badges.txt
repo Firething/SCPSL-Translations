@@ -52,3 +52,10 @@ Northwood Ředitel pro vztahy s veřejností
 SCP:SL Pomocník
 SCP:SL Hlasový herec
 SCP:SL Investor nadace
+Northwood Ředitel Studia
+SCP:SL Asistent herního ředitele
+Northwood Vedoucí technické podpory
+Northwood Manažer technické podpory
+Northwood Ředitel Systémové Administrace
+SCP:SL Narátivní Designer
+Northwood Vedoucí marketingové platformy
