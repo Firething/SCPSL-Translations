@@ -1,7 +1,7 @@
 AMPLIADO EM [amount]x
 NÍVEL DE ACESSO [tier]
 EXP [current] / [next]
-NÍVEL MÁXIMO ADQUIRIDO
+NÍVEL MÁX. OBTIDO
 SEM CÂMERA
 IR PARA: [camera] ([cost])
 ENERGIA AUXILIAR INSUFICIENTE
